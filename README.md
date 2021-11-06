@@ -7,3 +7,4 @@
 * [Replit](https://github.com/rosewoodowon/TIL/tree/main/Replit/)
 
 # Python
+* [BasicGrammar](https://github.com/rosewoodowon/TIL/blob/main/Python/BasicGrammar.md/)
