@@ -37,7 +37,7 @@ love_you(your_name="이즈리얼", "조이")
 
 #  File "main.py", line 4
 #    love_you(your_name="이즈리얼", "조이")
-#                                       ^
+#                                    ^
 #SyntaxError: positional argument follows keyword argument
 ```
 위에 작성된 코드가 error가 난 이유는 keyword arguments가 positional argument보다 더 앞으로 위치되어 함수가 호출되었기 때문이다.
