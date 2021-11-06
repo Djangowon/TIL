@@ -3,7 +3,7 @@
 개념 정리는 카테고리에 맞춰서 추가할 것.
 
 
-<h2>Wecode</h2>
-* [replit]
+<h2>Replit</h2>
+* 
 
 <h2>Python</h2>
