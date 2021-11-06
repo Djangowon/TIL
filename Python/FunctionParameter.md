@@ -1,4 +1,4 @@
-# Function Parameters
+## Function Parameters
 함수는 input parameter를 받아서 return 값을 output으로 리턴한다.  
 그리고 함수를 호출할 때 parameter를 함수에 건내주어서(pass) 호출한다.  
 함수의 parameter에는 여러 형태가 있으며, 가장 기본적인 형태는 순서대로 값이 parameter로 함수에 전해지는 경우이다.  
@@ -10,7 +10,7 @@ love_you("조이", "이즈리얼")
 
 #조이 loves 이즈리얼
 ```
-# Keyword Arguments
+## Keyword Arguments
 순서 대신에 parameter 이름으로 맞추어서 값을 전해줄 수 있다.  
 keyword arguments 방식으로 parameter 값을 전해주면 실제 parameter 순서가 바뀌어도 상관없다.  
 기본적인 형태로 parameter 순서에 맞추어 값을 함수에 넘기는 경우, 실수로 값이 바뀌어도 알기가 힘들다는 단점이 있는데,  
@@ -24,7 +24,7 @@ love_you(your_name="이즈리얼", my_name="조이")
 
 #조이 loves 이즈리얼
 ```
-# Mixing positional arguments and keyword arguments
+## Mixing positional arguments and keyword arguments
 순서를 맞추어서 parameter 값을 전해주는 positional arguments와 keyword arguments를 혼용하여 사용하는 것도 가능.
 #### 주의할 점 :heavy_check_mark: 
 keyword arguments는 순서가 바뀌어도 상관없지만 positional arguments 부분은 순서를 지켜줘야 함.
@@ -39,7 +39,7 @@ love_you(your_name="이즈리얼", "조이")
 위에 작성된 코드가 error가 난 이유는 keyword arguments가 positional argument보다 더 앞으로 위치되어 함수가 호출되었기 때문이다.
 positional arguments는 순서를 지켜줘야 하는데 순서가 틀렸기 때문.
 
-# Parameter Default Value
+## Parameter Default Value
 함수의 parameter에 default 값을 정의해 줄 수 있다.  
 Default 값이 정의된 paramter는 함수가 호출될 때 값이 넘겨지 않아도 괜찮은데,  
 이유는 값이 넘겨지 않은 경우 default 값이 자동으로 넘겨지게 되기 때문이다.
