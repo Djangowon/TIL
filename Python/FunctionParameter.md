@@ -1,3 +1,4 @@
+# Function Parameters
 ## Function Parameters
 함수는 input parameter를 받아서 return 값을 output으로 리턴한다.  
 그리고 함수를 호출할 때 parameter를 함수에 건내주어서(pass) 호출한다.  
