@@ -1,4 +1,4 @@
-# BasicGrammar
+# Basic Grammar
 ## 01. Print
 파이썬에서 출력하는 방법은 print() 
 
@@ -57,8 +57,7 @@ ex) 1+3j, 2-4j
 #### 사용법
 * 따옴표 앞에 f를 붙인다.
 * 치환하고 싶은 변수(혹은 함수 호출)를 \{\}를 사용해서 표시한다.
-```name = input()
-print(f"Hello, {name}")
+```python 
+name = input()
+print(f"hello, {name}")
 ```
-
-
