@@ -25,3 +25,78 @@ sys 모듈은 Python 런타임 환경의 다른 부분을 조작하는 데 사�
 * 처음의 리스트 요소부터 마지막까지 찾음
 * 파이썬에 포함되어 있는 built-in-modules
 * sys.path에서도 모듈을 발견하지 못하면 ModuleNotFoundError 에러를 리턴한다.
+## Absolute Path & Relative Path
+파이썬의 built-in 모듈과 pip 을 통해 설치한 외부 모듈 및 package는 일반적으로 import 하는데 큰 문제가 되지 않는다. Built-in 모듈은 당연히 잘 찾아지고, pip 으로 설치한 외무 모듈도 자동으로 site-packages 라는 디렉토리에 설치가 되는데, 이 site-packages 는 sys.path에 이미 포함되어 있기때문에 찾는데 문제가 없다. 문제는 직접 개발한 local package 이다. 직접 개발한 local package를 import 할때는 해당 package의 위치에 맞게 import 경로를 잘 선언해야 한다.
+Local package를 import 하는 경로에는 absolute path 와 relative path 가 있다. Absolute path는 이름 그대로 절대 경로이다. 왜 절대 경로인가 하니, import를 하는 파일이나 경로에 상관없이 항상 경로가 동일하기 때문이다.
+
+다음과 같은 프로젝트를 예를 들어보자:
+```
+└── my_app
+    ├── main.py
+    ├── package1
+    │   ├── module1.py
+    │   └── module2.py
+    └── package2
+        ├── __init__.py
+        ├── module3.py
+        ├── module4.py
+        └── subpackage1
+            └── module5.py
+```
+my_app 이라는 프로젝트 이며 package1과 package2 라는 2개의 package를 가지고 있다.  
+그리고 package2는 subpackage2 라는 중첩 package를 가지고 있다.  
+Absolute path를 사용해 package1 과 package2를 import 하면 다음과 같다.  
+```python
+from package1 import module1
+from package1.module2 import function1
+from package2 import class1
+from package2.subpackage1.module5 import function2
+```
+경로들의 시작점이 전부 my_app 프로젝트의 가장 최상위 디렉토리에서 시작하는것을 볼 수 있다. 예를 들어, subpackage1의 module5 모듈의 function2 함수를 import 하기 위해서는 다음 경로를 거치게 된다.
+```
+my_app => package2 => subpackage1 => module5.py
+```
+이걸 리눅스의 directory 경로 형식으로 바꾸면 다음처럼 표현 할 수 있다.
+```
+my_app/package2/subpackage1/module5.py
+```
+윈도우스 형식이라면 다음과 같다.
+```
+my_app/package2/subpackage1/module5.py
+```
+파이썬에서는 slash나 back slash대신에 dot .을 사용해서 경로를 표현한다.
+```
+my_app.package2.subpackage1.module5.py
+```
+이미 my_app 프로젝트 안에 있으므로 my_app 은 생략된다. 그러므로 다음처럼 경로를 표현하게 되는 것이다.
+```
+package2.subpackage1.module5.py
+```
+이걸 from import 키워드를 사용해 import 하게 되면 다음 처럼 된다.
+```
+from package2.subpackage1.module5 import function2
+```
+my_app 프로젝트 내에서는 어느 파일, 어느 위치에서 import 하던지 경로가 항상 위와 같이 동일하게 되므로 absolute path 라고 하는 것이다.  
+참고로 current directory 라고 하는 현재의 프로젝트 디렉토리는 default로 sys.path 에 포함되게 된다.  
+그러므로 absolute path는 current directory 로 부터 경로를 시작하게 되는 것이다.  
+일반적으로 local package를 import 할때는 absolute path를 사용하면 된다.  
+다만 absolute path를 사용하게 되면 한가지 단점이 있는데 바로 경로가 길어질 수 있다는 점이다.  
+그래서 이러한 단점을 보완하기 위해서 relative path를 사용할 수 있다.  
+Relative path 는 absolute path와 다르게 프로젝트의 최상단 디렉토리를 기준으로 경로를 잡는게 아니라 import 하는 위치를 기준으로 경로를 정의한다. 
+그래서 일반적으로 relative path는 local package 안에서 다른 local package를 import 할때 사용된다.  
+예를 들어, package2의 module3에서 package2의 class1과 package2의 하위 package인 subpackage1의 module5의 function2 함수를 import 하려고 하면 다음 처럼 할 수 있다.
+```python
+# package2/module3.py
+
+from . import class1
+from .subpackage1.module5 import function2
+```
+여기서 dot `.`은 import 가 선언되는 파일의 현재 위치를 이야기 한다.  
+현재위치는 `package2/module3.py` 이므로 현재 위치에서부터 원하는 모듈의 경로만 선언해주면 되는 것이다.  
+또한 dot 2개를 사용할 수도 있다. dot 2개 `..` 는 현재위치에서 상위 디렉토리로 가는 경로이다.  
+```python
+# subpackage1/module5.py
+from ..module4 import class4
+```
+Relative path는 선언해야 하는 경로의 길이를 줄여준다는 장점은 있지만 헷갈리기 쉽고 파일 위치가 변경되면 경로 위치도 변경되어야 하는 단점이 있다.
+그러므로 웬만한 경우 absolute path를 사용하는게 권장된다.
