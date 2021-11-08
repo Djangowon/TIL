@@ -3,8 +3,9 @@
 개념 정리는 카테고리에 맞춰서 추가할 것.
 
 # Replit
-* [28.FunctionParameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
+* [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
 * [42.Dictionary](https://github.com/rosewoodowon/TIL/blob/main/Replit/42.Dictionary.md/)
+* [57.How import statement finds modules and packages]
 
 # Python
 * [BasicGrammar](https://github.com/rosewoodowon/TIL/blob/main/Python/BasicGrammar.md/)
