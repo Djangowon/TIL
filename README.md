@@ -8,5 +8,6 @@
 * [57.How import statement finds modules and packages]
 
 # Python
-* [BasicGrammar](https://github.com/rosewoodowon/TIL/blob/main/Python/BasicGrammar.md/)
-* [FunctionParameter](https://github.com/rosewoodowon/TIL/blob/main/Python/FunctionParameter.md/)
+* [Basic Grammar](https://github.com/rosewoodowon/TIL/blob/main/Python/BasicGrammar.md/)
+* [Function Parameter](https://github.com/rosewoodowon/TIL/blob/main/Python/FunctionParameter.md/)
+* [How import statement finds modules and packages](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%26path.md)
