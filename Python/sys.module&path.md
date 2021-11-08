@@ -5,7 +5,6 @@ Python은 크게 세가지 구역에서 아래와 같은 순서로 module/packag
 ```
 sys.modules => built-in modules => sys.path
 ```
-
 ## sys.module
 파이썬이 모듈이나 package를 찾기위해 가장 먼저 확인하는 곳이다.
 sys.modules는 단순한 dictionary 이며, 이미 import된 모듈과 package들을 저장하고 있다.
