@@ -91,9 +91,9 @@ Relative path 는 absolute path와 다르게 프로젝트의 최상단 디렉토
 from . import class1
 from .subpackage1.module5 import function2
 ```
-여기서 dot `.`은 import 가 선언되는 파일의 현재 위치를 이야기 한다.  
-현재위치는 `package2/module3.py` 이므로 현재 위치에서부터 원하는 모듈의 경로만 선언해주면 되는 것이다.  
-또한 dot 2개를 사용할 수도 있다. dot 2개 `..` 는 현재위치에서 상위 디렉토리로 가는 경로이다.  
+여기서 dot .은 import 가 선언되는 파일의 현재 위치를 이야기 한다.  
+현재위치는 package2/module3.py 이므로 현재 위치에서부터 원하는 모듈의 경로만 선언해주면 되는 것이다.  
+또한 dot 2개를 사용할 수도 있다. dot 2개 .. 는 현재위치에서 상위 디렉토리로 가는 경로이다.  
 ```python
 # subpackage1/module5.py
 from ..module4 import class4
