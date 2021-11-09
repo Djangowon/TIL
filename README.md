@@ -5,9 +5,10 @@
 # Replit
 * [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
 * [42.Dictionary](https://github.com/rosewoodowon/TIL/blob/main/Replit/42.Dictionary.md/)
-* [57.How import statement finds modules and packages]
+* [57.How import statement finds modules and packages](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%26path.md)
+
 
 # Python
 * [Basic Grammar](https://github.com/rosewoodowon/TIL/blob/main/Python/BasicGrammar.md/)
 * [Function Parameter](https://github.com/rosewoodowon/TIL/blob/main/Python/FunctionParameter.md/)
-* [How import statement finds modules and packages](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%26path.md)
+
