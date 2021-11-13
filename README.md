@@ -15,3 +15,4 @@
 
 # Etc
 * [[Django] You are trying to add a non-nullable field](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20You%20are%20trying%20to%20add%20a%20non-nullable%20field.md/)
+* [[Django] No migrations to apply](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20No%20migrations%20to%20apply.md/)
