@@ -22,7 +22,6 @@ class Nutrition(models.Model):
 ```
 `default=0` 과 `null=True` 를 같이 추가하는 경우에도 충돌이 날 수도 있다.  
 이렇게 수정한 후에도 makemigrations 를 했더니 같은 메세지가 나왔는데, 이 때는 makemigrations 를 하면 생성되는 0001_initial.py, 0002~로 시작되는 모듈들을 삭제하고 makemigrations 를 하면 해결된다.
-![image]
 ```
 cd migrations
 ``` 
@@ -35,3 +34,5 @@ rm 0001_initial.py
 ```
 이렇게 되면 migrations 에는 `__init__.py` 와 `__pycache__` 만 남아있을 것이고, 이제 `python manage.py makemigrations`를 하면 정상적으로 잘 된다.
 
+![image](https://github.com/rosewoodowon/TIL/blob/main/image/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-11-13%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.09.10%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB%202.png/)
+![image]()
