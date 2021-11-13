@@ -35,4 +35,4 @@ rm 0001_initial.py
 이렇게 되면 migrations 에는 `__init__.py` 와 `__pycache__` 만 남아있을 것이고, 이제 `python manage.py makemigrations`를 하면 정상적으로 잘 된다.
 
 ![image](https://github.com/rosewoodowon/TIL/blob/main/image/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-11-13%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.09.10%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB%202.png/)
-![image]()
+![image](https://github.com/rosewoodowon/TIL/blob/main/image/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-11-13%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.09.10%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB%203.png/)
