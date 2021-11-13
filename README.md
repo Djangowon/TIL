@@ -13,5 +13,5 @@
 * [Function Parameter](https://github.com/rosewoodowon/TIL/blob/main/Python/FunctionParameter.md/)
 * [sys.module, sys.path, absolute path, relative path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%2C%20sys.path%2C%20absolute%20path%2C%20relative%20path.md/)
 
-# Daily Note
+# Etc
 * [You are trying to add a non-nullable field](https://github.com/rosewoodowon/TIL/blob/main/Note/You%20are%20trying%20to%20add%20a%20non-nullable%20field.md/)
