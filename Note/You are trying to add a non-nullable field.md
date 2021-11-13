@@ -34,3 +34,4 @@ la
 rm 0001_initial.py
 ```
 이렇게 되면 migrations 에는 `__init__.py` 와 `__pycache__` 만 남아있을 것이고, 이제 `python manage.py makemigrations`를 하면 정상적으로 잘 된다.
+
