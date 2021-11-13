@@ -11,7 +11,7 @@
 # Python
 * [Basic Grammar](https://github.com/rosewoodowon/TIL/blob/main/Python/BasicGrammar.md/)
 * [Function Parameter](https://github.com/rosewoodowon/TIL/blob/main/Python/FunctionParameter.md/)
-* [sys.module, sys.path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%26path.md)
+* [sys.module, sys.path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%2C%20sys.path%2C%20absolute%20path%2C%20relative%20path.md/)
 
 # Etc
 * [Note]
