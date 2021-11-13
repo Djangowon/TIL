@@ -1,4 +1,4 @@
-# sys.module, sys.path, Absolute path, relative path
+# sys.module, sys.path, absolute path, relative path
 ## sys.module & sys.path
 Python은 여러 모듈이 합쳐져서 프로젝트를 이루게 된다 pip를 이용하여 모듈 패키지를 추가할 수 있고 용도에 따라 웹개발이나, AI/ML개발, 게임 개발 등이 가능하다. 개발자 개인이 만든 local package module 을 이용하여 더 다양한 프로젝트를 만들 수 있다. import를 써서 모듈과 패키지를 찾는다.  
 #### import search order
