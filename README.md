@@ -14,4 +14,4 @@
 * [sys.module, sys.path, absolute path, relative path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%2C%20sys.path%2C%20absolute%20path%2C%20relative%20path.md/)
 
 # Etc
-* [You are trying to add a non-nullable field](https://github.com/rosewoodowon/TIL/blob/main/Note/You%20are%20trying%20to%20add%20a%20non-nullable%20field.md/)
+* [[Django] You are trying to add a non-nullable field](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20You%20are%20trying%20to%20add%20a%20non-nullable%20field.md/)
