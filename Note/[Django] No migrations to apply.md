@@ -13,6 +13,7 @@ Running migrations:
   
   
 <img src="https://github.com/rosewoodowon/TIL/blob/main/image/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-11-14%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.02.58.png/" width=50% height=50%/>
+  
 DB의 django_migrations 테이블을 확인해보면 지금까지 migrate를 하면서 생성된 migration 파일 목록이 기록되어 있다. 동일한 App에 대해 migrate를 진행하면서 생성된 파일명이 이미 DB에 기록되어 있다면 Django는 해당 파일을 무시하고 아무 작업도 수행하지 않기 때문에, makemigrations 를 하고 생긴 `0001_initial.py` 파일의 파일명을 rename 한 후 migrate 를 하면 정상 동작하는 것처럼 보여지는데 이 또한 mysql 에서 테이블을 확인했더니 누락된 테이블 총 4개중 두개 테이블은 생성되었지만, 다른 누락된 테이블은 여전히 생기지 않았다. 뭐 때문에 이건 되고 저건 안 되는지 모르겠다. 아직 미해결. 
   
 ---
