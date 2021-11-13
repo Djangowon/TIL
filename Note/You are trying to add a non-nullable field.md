@@ -22,7 +22,7 @@ class Nutrition(models.Model):
 ```
 `default=0` 과 `null=True` 를 같이 추가하는 경우에도 충돌이 날 수도 있다.  
 이렇게 수정한 후에도 makemigrations 를 했더니 같은 메세지가 나왔는데, 이 때는 makemigrations 를 하면 생성되는 0001_initial.py, 0002~로 시작되는 모듈들을 삭제하고 makemigrations 를 하면 해결된다.
-
+![image]
 ```
 cd migrations
 ``` 
