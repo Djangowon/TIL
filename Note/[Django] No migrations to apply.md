@@ -28,18 +28,15 @@ DB의 django_migrations 테이블을 확인해보면 지금까지 migrate를 하
 > select * from django_migrations;
 ```
 ```
-> select * from django_migrations;
-```
-```
 > delete from django_migrations where id=9;
 ```
 위처럼 django_migrations 목록 확인 후 문제가 된 파일을 지워주면 된다.
 ```
 > drop table django_migrations;
 ```
-이 에러를 확인하는 과정에서 나는 왔다갔다 수정하며 여러부분을 건들였기 때문에 파일 하나 삭제가 아니라 전체를 밀어버렸다.
+이 에러를 확인하는 과정에서 나는 왔다갔다 수정하며 여러부분을 건들였기 때문에 파일 하나 삭제가 아니라 전체를 밀어버렸다.   
 
-이전에 해결하려고 했던 방법은 mysql DB의 django_migrations 안에 있는 `0001_initial.py`를 지워주는 것이 아니라 DB 밖에서 즉, 해당 app이름 폴더/migrations 폴더 안에 있는 `0001_initial.py`을 지워준 것이었다. 그래서 이미 DB의 django_migrations 에 있는 0001, 0002~ 파일들도 지우고 drop table을 테이블을 초기화시키면 makemigrations 와 migrate 가 정상 동작한다.
+이전에 해결하려고 했던 방법은 mysql DB의 django_migrations 안에 있는 `0001_initial.py`를 지워주는 것이 아니라 DB 밖에서 즉, 해당 app이름 폴더/migrations 폴더 안에 있는 `0001_initial.py`만 지워준 것이었다. DB의 django_migrations 안에 있는 0001, 0002~ 파일도 지워주고 drop table을 통해 테이블을 초기화시키면 makemigrations 와 migrate 가 정상 동작한다.
   
 ---
  
