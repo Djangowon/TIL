@@ -16,3 +16,4 @@
 # Etc
 * [[Django] You are trying to add a non-nullable field](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20You%20are%20trying%20to%20add%20a%20non-nullable%20field.md/)
 * [[Django] No migrations to apply](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20No%20migrations%20to%20apply.md/)
+* [[Git] error: failed to push some refs to](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BGit%5D%20error:%20failed%20to%20push%20some%20refs%20to.md/)
