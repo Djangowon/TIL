@@ -9,6 +9,7 @@
 > git push origin feature/owner
 ```
 commit 까지 한 뒤 push 를 했더니 만난 에러  
+  
 <img src="https://github.com/rosewoodowon/TIL/blob/main/image/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-11-16%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%203.41.11.png" width=70% height=70%>  
 원인은 push하기 전 & 작업하기 전에 git pull 명령어를 통해서 원격저장소의 최신상태를 유지한 상태에서 push를 해야하는데 그냥 push 를 해서 생긴 것.
 
