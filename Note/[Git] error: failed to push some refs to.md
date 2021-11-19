@@ -24,6 +24,9 @@ commit 까지 한 뒤 push 를 했더니 만난 에러
 > git checkout (서브)
 ```
 ```
+> git merge main
+```
+```
 > git push origin (서브)
 ```
 push 하기 전에 main 에서 git pull 을 해주자!  
