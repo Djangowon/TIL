@@ -14,6 +14,7 @@
 * [sys.module, sys.path, absolute path, relative path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%2C%20sys.path%2C%20absolute%20path%2C%20relative%20path.md/)
 
 # Django
+* [Basic concept](https://github.com/rosewoodowon/TIL/blob/main/Django/Django%20basic%20concept.md/)
 
 # Replit
 * [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
