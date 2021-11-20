@@ -45,3 +45,4 @@
 `:colorscheme 스키마명` VIM의 칼라스키마를 변경함
   
 [참고자료](https://wayhome25.github.io/etc/2017/03/27/vi/)
+[참고자료](https://blog.outsider.ne.kr/540/)
