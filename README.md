@@ -22,3 +22,4 @@
 * [57.How import statement finds modules and packages](https://github.com/rosewoodowon/TIL/blob/main/Replit/57.How%20import%20statement%20finds%20modules%20and%20packages.md/)
 
 # Codekata
+* [week1 - day5](https://github.com/Djangowon/TIL/blob/main/CodeKata/week1%20-%20day5.md/)
