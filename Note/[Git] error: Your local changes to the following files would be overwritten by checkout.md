@@ -14,6 +14,11 @@ git stash
 ```
 내가 수정한 소스를 스택 한켠에 옮겨두어 저장하고 이전 commit 시점으로 돌아간다.
 이때 stash 는 현재 디렉토리의 파일을 임시로 백업하고 깨끗한 상태로 돌린다.
+버전관리 되는 대상 파일들을 임시저장 해둔다고 보면 된다. 
  
 #### 예방방법
 * git status 로 항상 확인!
+
+[참고](https://goddaehee.tistory.com/253/)  
+[참고](https://steemit.com/develope/@snowsprout/git-git-pull-error-your-local-changes-to-the-following-files-would-be-overwritten-by-merge/)  
+[참고](https://ucong-9796.tistory.com/44/)  
