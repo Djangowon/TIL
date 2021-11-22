@@ -10,12 +10,13 @@
 * [[Git] Commit message rules](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20Commit%20message%20rules.md/)
 
 # Python
-* [Basic Grammar](https://github.com/rosewoodowon/TIL/blob/main/Python/Basic%20Grammar.md/)
+* [Python Basic Grammar](https://github.com/rosewoodowon/TIL/blob/main/Python/Basic%20Grammar.md/)
 * [Function Parameter](https://github.com/rosewoodowon/TIL/blob/main/Python/Function%20Parameter.md/)
 * [sys.module, sys.path, absolute path, relative path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%2C%20sys.path%2C%20absolute%20path%2C%20relative%20path.md/)
 
 # Django
-* [Basic concept](https://github.com/rosewoodowon/TIL/blob/main/Django/Django%20basic%20concept.md/)
+* [Django Basic concept](https://github.com/rosewoodowon/TIL/blob/main/Django/Django%20basic%20concept.md/)
+* [Django project setting(Server & Database).md](https://github.com/Djangowon/TIL/blob/main/Django/Django%20project%20setting(Server%20%26%20Database).md/)
 
 # Replit
 * [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
