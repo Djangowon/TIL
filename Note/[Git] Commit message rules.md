@@ -28,4 +28,5 @@ style : 코드 스타일 혹은 포맷 등에 관한 커밋
 refactor : 코드 리팩토링에 대한 커밋 
 test : 테스트 코드 수정에 대한 커밋
 ```
-[출처](https://beomseok95.tistory.com/328/)
+[출처](https://beomseok95.tistory.com/328/)  
+[참고](https://junhyunny.github.io/information/github/git-commit-message-rule/)
