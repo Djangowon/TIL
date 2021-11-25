@@ -49,16 +49,16 @@ select age, name from student;
   
 * 쿼리의 실행 순서는 from -> where -> group by -> having -> select -> order by
 
-## DML(Data Manipulation Language) : 데이터 조작어
+### DML(Data Manipulation Language) : 데이터 조작어
 - 테이블에 데이터를 검색, 삽입, 수정, 삭제하는 데 사용하며 SELECT, INSERT, DELETE, UPDATE 문 등이 있다. 여기서 SELECT 문은 특별히 질의어(query)라고 부른다.
 
-## DDL(Data Definition Language) : 데이터 정의어
+### DDL(Data Definition Language) : 데이터 정의어
 - 테이블이나 관계의 구조를 생성하는 데 사용하며 CREATE, ALTER, DROP 등이 있다.
 - 
-## DCL(Data Control Language) : 데이터 제어어 
+### DCL(Data Control Language) : 데이터 제어어 
 - 데이터의 사용 권한을 관리하는 데 사용하며 GRANT, REVOKE 문 등이 있다.
 
-## TCL(Transaction Control Language) : 트랜젝션 제어
+### TCL(Transaction Control Language) : 트랜젝션 제어
 - COMMIT, ROLLBACK, SAVEPOINT 등이 있다.
 
 [참조](https://velog.io/@ygh7687/SQL-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC#create/)  
