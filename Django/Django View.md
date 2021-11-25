@@ -2,41 +2,47 @@
 ## models.py 작성 이후 views.py 작성하기
 #### views.py
 ```python 
-import json
+import json, bcrypt, jwt
 
-from django.http     import JsonResponse
-from django.views    import View
+from django.views           import View
+from django.http            import JsonResponse, HttpResponse
+from django.core.exceptions import ValidationError
 
-from products.models import Menu, Category, Product
+from .models                import User
+from my_settings            import SECRET_KEY, DATABASES, ALGORITHM
+from .validation            import validate_email, validate_password
 
-class ProductsView(View):
+class SignupView(View):
     def post(self, request):
-		    data     = json.loads(request.body)
-        menu     = Menu.objects.create(name=data['menu'])
-        category = Category.objects.create(
-                name = data['category'],
-                menu = menu
-        )
-        Product.objects.create(
-                name     = data['product'], 
-                category = category,
-		menu     = menu
-        )
-        return JsonResponse({'MESSAGE':'CREATED'}, status=201)
-	
-class ProductsView(View):
-	def get(self, request):
-		products = Product.objects.all()
-		results  = []
-		for product in products:
-			results.append(
-				{
-				"menu"         : product.category.menu.name,
-				"category"     : product.category.name,
-				"product_name" : product.name
-				}
-		)
-		return JsonResponse({'resutls':results}, status=200)
+        try:
+            data = json.loads(request.body)
+
+            name         = data['name']
+            email        = data['email']
+            password     = data['password']
+            phone_number = data['phone_number']
+            information  = data.get('information', None)
+
+            if User.objects.filter(email=email).exists():
+                raise ValidationError('ALREADY_EXISTS')
+            
+            validate_email(email)
+            validate_password(password)
+
+            hashed_password = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt()).decode('utf-8')
+
+            User.objects.create(
+                name         = name, 
+                email        = email, 
+                password     = hashed_password, 
+                phone_number = phone_number,
+                information  = information
+            )
+            return JsonResponse({'message' : 'SUCCESS!'}, status=201)
+
+        except KeyError:
+            return JsonResponse({'message' : 'KEY_ERROR'}, status=400)
+
 ```
 View 를 작성 한 후에는, 클라이언트의 요청을 받아 적절한 view 를 맵핑해주는 urls.py 를 작성해주어야 한다.
 메인 urls.py 말고 앱이름으로 생성된 디렉토리 안에는 urls.py 가 없는 게 맞고 생성해주어야 함
@@ -47,11 +53,11 @@ vi urls.py
 #### 앱이름/urls.py
 ```python
 from django.urls import path
-
-from products.views import ProductsView
+from .views      import SignupView, SigninView
 
 urlpatterns = [
-	path('', ProductsView.as_view()),
+    path('/signup', SignupView.as_view()),
+    path('/signin', SigninView.as_view()),
 ]
 ```
 #### main/urls.py
@@ -59,6 +65,6 @@ urlpatterns = [
 from django.urls import path, include
 
 urlpatterns = [
-	path('products', include('products.urls')),
+    path('users', include('users.urls')),
 ]
 ```
