@@ -30,7 +30,7 @@ update 테이블 set 칼럼 = '값' where 조건;
 ```
 delete from 테이블 where 조건;
 ```
-#### select
+#### Select
 - 모든 컬럼 조회
 ```
 select * from student;
