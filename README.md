@@ -4,6 +4,7 @@
 
 # Etc
 * [[Vi] Vi Shortcut keys](https://github.com/Djangowon/TIL/blob/main/Note/%5BVi%5D%20Shortcut%20keys.md/)
+* [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Note/%5BSQL%5D%20command.md/)
 * [[Django] You are trying to add a non-nullable field](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20You%20are%20trying%20to%20add%20a%20non-nullable%20field.md/)
 * [[Django] No migrations to apply](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20No%20migrations%20to%20apply.md/)
 * [[Git] Commit message rules](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20Commit%20message%20rules.md/)
