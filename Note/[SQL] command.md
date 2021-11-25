@@ -18,26 +18,29 @@ PRIMARY KEY ~~ );
 #### Insert
 - 테이블에 데이터 삽입
 ```
-insert into student values(테이블에 맞는 데이터 양식);
+INSERT INTO Person(name, age) values('dowon', 20);
 ```
 #### Update
 - 데이터 내용 수정
 ```
-update 테이블 set 칼럼 = '값' where 조건;
+UPDATE Person SET age = 20 WHERE id = 1;
 ```
 #### Delete
 - 데이터 삭제
 ```
-delete from 테이블 where 조건;
+DELETE FROM Person;
+```
+```
+DELETE FROM Person WHERE age < 10;
 ```
 #### Select
 - 모든 컬럼 조회
 ```
-select * from student;
+SELECT * FROM Person WHERE id = 1;
 ```
 - 필요한 컬럼 조회
 ```
-select age, name from student;
+SELECT name, age FROM Person;
 ```
 #### select 문법 순서
 1. select
@@ -60,7 +63,6 @@ select age, name from student;
 
 ### TCL(Transaction Control Language) : 트랜젝션 제어
 - COMMIT, ROLLBACK, SAVEPOINT 등이 있다.
-
-[참조](https://velog.io/@ygh7687/SQL-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC#create/)  
+ 
 [참고](https://pbj0812.tistory.com/156/)
 
