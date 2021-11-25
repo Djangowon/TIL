@@ -20,7 +20,7 @@ class ProductsView(View):
         Product.objects.create(
                 name     = data['product'], 
                 category = category,
-								menu     = menu
+		menu     = menu
         )
         return JsonResponse({'MESSAGE':'CREATED'}, status=201)
 ```
