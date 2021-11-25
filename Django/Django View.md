@@ -68,3 +68,11 @@ urlpatterns = [
     path('users', include('users.urls')),
 ]
 ```
+## httpie(client) 로 django server 에 요청보내기
+```
+$ http -v POST 127.0.0.1:8000/product menu='음료' category='콜드브루' 
+product='맛있는 콜드브루'
+```
+```
+$ http -v GET 127.0.0.1:8000/products
+```
