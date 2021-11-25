@@ -43,6 +43,24 @@ class SignupView(View):
         except KeyError:
             return JsonResponse({'message' : 'KEY_ERROR'}, status=400)
 
+
+class SigninView(View):
+    def post(self, request):
+        try:
+            data = json.loads(request.body)
+
+            if User.objects.filter(email=data['email']).exists():
+                if bcrypt.checkpw(data['password'].encode('utf-8'), User.objects.get(email=data['email']).password.encode('utf-8')):
+                    token = jwt.encode({'id' : User.objects.get(email=data['email']).id},SECRET_KEY, algorithm=ALGORITHM)
+                    return JsonResponse({'MESSAGE':'SUCCESS', 'TOKEN' : token}, status=200)
+    
+            return JsonResponse({'massage': 'INVALID_USER'}, status=401)
+
+        except KeyError:
+            return JsonResponse({'massage': 'KEY_ERROR'}, status=400)
+        except User.DoesNotExist:
+            return JsonResponse({'message': 'INVALID_USER'}, status=401)
+
 ```
 View 를 작성 한 후에는, 클라이언트의 요청을 받아 적절한 view 를 맵핑해주는 urls.py 를 작성해주어야 한다.  
 메인 urls.py 말고 앱이름으로 생성된 디렉토리 안에는 urls.py 가 없는 게 맞고 생성해주어야 함
