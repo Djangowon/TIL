@@ -24,4 +24,4 @@ class ProductsView(View):
         )
         return JsonResponse({'MESSAGE':'CREATED'}, status=201)
 ```
-View 를 작성 한 후에는, 클라이언트의 요청을 받아 적절한 view 를 맵핑해주는 urls.py 를 작성해주어야 하는데,
+View 를 작성 한 후에는, 클라이언트의 요청을 받아 적절한 view 를 맵핑해주는 urls.py 를 작성해주어야 한다.
