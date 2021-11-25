@@ -1,5 +1,5 @@
 # Django View
-## models.py 작성 이후 views.py 작성하기
+## models.py 작성 이후 views.py 작성하기 (예시: westagram)
 #### views.py
 ```python 
 import json, bcrypt, jwt
@@ -68,7 +68,7 @@ urlpatterns = [
     path('users', include('users.urls')),
 ]
 ```
-## httpie(client) 로 django server 에 요청보내기
+## httpie(client) 로 django server 에 요청보내기 (예시: westarbucks)
 ```
 $ http -v POST 127.0.0.1:8000/product menu='음료' category='콜드브루' 
 product='맛있는 콜드브루'
