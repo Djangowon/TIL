@@ -12,9 +12,9 @@
 * [[Git] error: error: Your local changes to the following files would be overwritten by checkout](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20error:%20Your%20local%20changes%20to%20the%20following%20files%20would%20be%20overwritten%20by%20checkout.md/)
 
 # Python
-* [Python Basic Grammar](https://github.com/rosewoodowon/TIL/blob/main/Python/Basic%20Grammar.md/)
-* [Function Parameter](https://github.com/rosewoodowon/TIL/blob/main/Python/Function%20Parameter.md/)
-* [sys.module, sys.path, absolute path, relative path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%2C%20sys.path%2C%20absolute%20path%2C%20relative%20path.md/)
+* [[Python] Python Basic Grammar](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Basic%20Grammar.md/)
+* [[Python] Function Parameter](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Function%20Parameter.md/)
+* [[Python] sys.module, sys.path, absolute path, relative path](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20sys.module,%20sys.path,%20absolute%20path,%20relative%20path.md/)
 
 # Django
 * [[Django] Basic concept](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20basic%20concept.md/)
