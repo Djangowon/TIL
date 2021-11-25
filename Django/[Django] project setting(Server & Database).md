@@ -76,6 +76,10 @@ CORS_ALLOW_HEADERS = (
     'x-requested-with',
 )
 ```
+* '/' 관련 에러 제거
+```
+APPEND_SLASH     = False
+```
 #### project urls.py 수정
 ```
 from django.urls import path
