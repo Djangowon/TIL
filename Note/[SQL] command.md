@@ -39,6 +39,15 @@ select * from student;
 ```
 select age, name from student;
 ```
+#### select 문법 순서
+1. select
+2. from
+3. where
+4. group by
+5. having
+6. order by
+  
+* 쿼리의 실행 순서는 from -> where -> group by -> having -> select -> order by
 
 ## DML(Data Manipulation Language) : 데이터 조작어
 - 테이블에 데이터를 검색, 삽입, 수정, 삭제하는 데 사용하며 SELECT, INSERT, DELETE, UPDATE 문 등이 있다. 여기서 SELECT 문은 특별히 질의어(query)라고 부른다.
@@ -52,4 +61,6 @@ select age, name from student;
 ## TCL(Transaction Control Language) : 트랜젝션 제어
 - COMMIT, ROLLBACK, SAVEPOINT 등이 있다.
 
+[참조](https://velog.io/@ygh7687/SQL-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC#create/)  
+[참고](https://pbj0812.tistory.com/156/)
 
