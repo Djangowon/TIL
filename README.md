@@ -17,10 +17,12 @@
 * [sys.module, sys.path, absolute path, relative path](https://github.com/rosewoodowon/TIL/blob/main/Python/sys.module%2C%20sys.path%2C%20absolute%20path%2C%20relative%20path.md/)
 
 # Django
-* [Django Basic concept](https://github.com/rosewoodowon/TIL/blob/main/Django/Django%20basic%20concept.md/)
-* [Django project setting(Server & Database).md](https://github.com/Djangowon/TIL/blob/main/Django/Django%20project%20setting(Server%20%26%20Database).md/)
-* [Django modeling](https://github.com/Djangowon/TIL/blob/main/Django/Django%20modeling.md/)
-* [Django view](https://github.com/Djangowon/TIL/blob/main/Django/Django%20View.md/)
+* [[Django] Basic concept](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20basic%20concept.md/)
+* [[Django] project setting(Server & Database).md](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20project%20setting(Server%20&%20Database).md/)
+* [[Django] modeling](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20modeling.md/)
+* [[Django] view](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20View.md/)
+* [[Django] Data & Field](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20Data%20%26%20Field.md/)
+* [[Django] QuerySet API](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20QuerySet%20API.md/)
 
 # Replit
 * [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
