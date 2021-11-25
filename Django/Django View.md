@@ -23,6 +23,20 @@ class ProductsView(View):
 		menu     = menu
         )
         return JsonResponse({'MESSAGE':'CREATED'}, status=201)
+	
+class ProductsView(View):
+	def get(self, request):
+		products = Product.objects.all()
+		results  = []
+		for product in products:
+			results.append(
+				{
+				"menu"         : product.category.menu.name,
+				"category"     : product.category.name,
+				"product_name" : product.name
+				}
+		)
+		return JsonResponse({'resutls':results}, status=200)
 ```
 View 를 작성 한 후에는, 클라이언트의 요청을 받아 적절한 view 를 맵핑해주는 urls.py 를 작성해주어야 한다.
 메인 urls.py 말고 앱이름으로 생성된 디렉토리 안에는 urls.py 가 없는 게 맞고 생성해주어야 함
