@@ -54,7 +54,7 @@ select age, name from student;
 
 ### DDL(Data Definition Language) : 데이터 정의어
 - 테이블이나 관계의 구조를 생성하는 데 사용하며 CREATE, ALTER, DROP 등이 있다.
-- 
+
 ### DCL(Data Control Language) : 데이터 제어어 
 - 데이터의 사용 권한을 관리하는 데 사용하며 GRANT, REVOKE 문 등이 있다.
 
