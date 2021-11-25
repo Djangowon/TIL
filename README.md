@@ -19,6 +19,7 @@
 * [Django Basic concept](https://github.com/rosewoodowon/TIL/blob/main/Django/Django%20basic%20concept.md/)
 * [Django project setting(Server & Database).md](https://github.com/Djangowon/TIL/blob/main/Django/Django%20project%20setting(Server%20%26%20Database).md/)
 * [Django modeling](https://github.com/Djangowon/TIL/blob/main/Django/Django%20modeling.md/)
+* [Django view](https://github.com/Djangowon/TIL/blob/main/Django/Django%20View.md/)
 
 # Replit
 * [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
