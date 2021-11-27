@@ -11,7 +11,7 @@
 * [[Git] Commit message rules](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20Commit%20message%20rules.md/)
 * [[Git] error: failed to push some refs to](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BGit%5D%20error:%20failed%20to%20push%20some%20refs%20to.md/)
 * [[Git] error: error: Your local changes to the following files would be overwritten by checkout](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20error:%20Your%20local%20changes%20to%20the%20following%20files%20would%20be%20overwritten%20by%20checkout.md/)
-* [[Git] ](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20merge%20main%20Already%20up%20to%20date.md/)
+* [[Git] git merge main Already up to date](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20merge%20main%20Already%20up%20to%20date.md/)
 
 # Python
 * [[Python] Python Basic Grammar](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Basic%20Grammar.md/)
