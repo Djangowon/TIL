@@ -25,8 +25,8 @@ class Menu(models.Model):
 class Category(models.Model):
 	name = models.CharField(max_length=20)
 	menu = models.ForeignKey('Menu', on_delete=models.CASCADE)
-
-    class Meta:
+	
+	class Meta:
           db_table = 'categories'
 
 class Product(models.Model):
