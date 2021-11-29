@@ -41,3 +41,59 @@ Output: "7+1i"
 ## 가정
 input은 항상 a+bi 형태입니다.
 output도 a+bi 형태로 나와야 합니다.
+
+## split 함수
+문자열을 나눌 때 사용한다. 괄호 안에 아무것도 넣지 않으면 공백(띄어쓰기, 탭 등)을 기준으로 문자열을 나눈다. 나누어진 값은 리스트의 요소로 저장되는데, 분할된 문자의 개수만큼 각각을 변수로 지정하는 것도 가능하다. 
+#### 사용예시
+```python
+test = 'Hello world : 헬로 월드'
+print(test)
+print(test.split())
+print(test.split(sep=':'))
+print(test.split(maxsplit=1))
+print(test.split(maxsplit=2))
+print(test.split(maxsplit=3))
+
+-- 출력값
+Hello world : 헬로 월드
+['Hello', 'world', ':', '헬로', '월드']	# 기본값으로 분할
+['Hello world ', ' 헬로 월드']	# ':'기준 분할
+['Hello', 'world : 헬로 월드']	# 공백기준, 1번 분할
+['Hello', 'world', ': 헬로 월드']	# 공백기준, 2번 분할
+['Hello', 'world', ':', '헬로 월드']	# 공백기준, 3번 분할
+```
+
+## replace 함수
+#### 사용예시
+```python
+text = '123,456,789,999'
+
+replaceAll= text.replace(",","")
+replace_t1 = text.replace(",", "",1)
+replace_t2 = text.replace(",", "",2)
+replace_t3 = text.replace(",", "",3)
+print("결과 :")
+print(replaceAll)
+print(replace_t1)
+print(replace_t2)
+print(replace_t3)
+
+'''
+결과 : 
+123456789999
+123456,789,999
+123456789,999
+123456789999
+'''
+```
+
+## 풀이
+```python
+def complex_number_multiply(a, b):
+  a1 = int(a.split('+')[0])
+  b1 = int(b.split('+')[0])
+
+  a2 = int(a.split('+')[1].replace('i', ''))
+  b2 = int(b.split('+')[1].replace('i', ''))
+  return f'{(a1 * b1) + (a2 * b2)*(-1)}+{(a1 * b2) + (a2 * b1)}i' 
+```
