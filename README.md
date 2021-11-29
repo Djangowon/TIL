@@ -13,7 +13,7 @@
 * [[Git] git merge main Already up to date](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20merge%20main%20Already%20up%20to%20date.md/)
 
 # Database & SQL
-* [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Note/%5BSQL%5D%20command.md/)
+* [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
 
 # Python
 * [[Python] Python Basic Grammar](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Basic%20Grammar.md/)
