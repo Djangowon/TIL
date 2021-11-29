@@ -4,7 +4,6 @@
 
 # Etc
 * [[Vi] Vi Shortcut keys](https://github.com/Djangowon/TIL/blob/main/Note/%5BVi%5D%20Shortcut%20keys.md/)
-* [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Note/%5BSQL%5D%20command.md/)
 * [[HTTP] Status](https://developer.mozilla.org/ko/docs/Web/HTTP/Status/)
 * [[Django] You are trying to add a non-nullable field](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20You%20are%20trying%20to%20add%20a%20non-nullable%20field.md/)
 * [[Django] No migrations to apply](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BDjango%5D%20No%20migrations%20to%20apply.md/)
@@ -12,6 +11,9 @@
 * [[Git] error: failed to push some refs to](https://github.com/rosewoodowon/TIL/blob/main/Note/%5BGit%5D%20error:%20failed%20to%20push%20some%20refs%20to.md/)
 * [[Git] error: error: Your local changes to the following files would be overwritten by checkout](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20error:%20Your%20local%20changes%20to%20the%20following%20files%20would%20be%20overwritten%20by%20checkout.md/)
 * [[Git] git merge main Already up to date](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20merge%20main%20Already%20up%20to%20date.md/)
+
+# Database & SQL
+* [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Note/%5BSQL%5D%20command.md/)
 
 # Python
 * [[Python] Python Basic Grammar](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Basic%20Grammar.md/)
