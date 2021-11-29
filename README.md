@@ -34,3 +34,4 @@
 
 # Codekata
 * [week1 - day5](https://github.com/Djangowon/TIL/blob/main/CodeKata/week1%20-%20day5.md/)
+* [week3 - day1](https://github.com/Djangowon/TIL/blob/main/CodeKata/week3%20-%20day1.md/)
