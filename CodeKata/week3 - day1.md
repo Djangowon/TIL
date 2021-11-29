@@ -64,27 +64,16 @@ Hello world : 헬로 월드
 ```
 
 ## replace 함수
+replace는 문자열을 변경하는 함수이다. 문자열 안에서 특정 문자를 새로운 문자로 변경하는 기능을 가지고 있다. 사용 방법은 '변수. replace(old, new, [count])' 형식으로 사용한다.
+- old : 현재 문자열에서 변경하고 싶은 문자
+- new: 새로 바꿀 문자
+- count: 변경할 횟수. 횟수는 입력하지 않으면 old의 문자열 전체를 변경한다. 기본값은 전체를 의미하는 count=-1로 지정되어있다. 
+replace(old, new, [count]) -> replace("찾을값", "바꿀값", [바꿀횟수])
 #### 사용예시
-```python
-text = '123,456,789,999'
-
-replaceAll= text.replace(",","")
-replace_t1 = text.replace(",", "",1)
-replace_t2 = text.replace(",", "",2)
-replace_t3 = text.replace(",", "",3)
-print("결과 :")
-print(replaceAll)
-print(replace_t1)
-print(replace_t2)
-print(replace_t3)
-
-'''
-결과 : 
-123456789999
-123456,789,999
-123456789,999
-123456789999
-'''
+```
+>>> a = 'hello world'
+>>> a.replace('hello','hi')
+hi world
 ```
 
 ## 풀이
