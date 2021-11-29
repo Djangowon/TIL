@@ -62,3 +62,4 @@ Body: {
 	"token": "kldiduajsadm@9df0asmzm" (암호화된 유저의 정보)
 }
 ```
+[공식문서](https://developer.mozilla.org/ko/docs/Web/HTTP/Messages/)
