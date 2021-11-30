@@ -127,8 +127,6 @@ SECRET_KEY = SECRET_KEY
 python manage.py runserver
 ```
 #### requirements.txt 생성
-
-## Git & Github
 ```
 $ pip freeze
 ```
@@ -143,6 +141,7 @@ mysqlclient==2.0.3
 PyMySQL==1.0.2
 (M1 사용할 경우)
 ```
+## Git & Github
 #### git 초기화
 ```python
 git init
