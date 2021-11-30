@@ -126,7 +126,23 @@ SECRET_KEY = SECRET_KEY
 ```python
 python manage.py runserver
 ```
+#### requirements.txt 생성
+
 ## Git & Github
+```
+$ pip freeze
+```
+```
+touch requirements.txt
+vi requirements.txt
+
+Django==3.2.4
+django-cors-headers==3.7.0
+mysqlclient==2.0.3
+
+PyMySQL==1.0.2
+(M1 사용할 경우)
+```
 #### git 초기화
 ```python
 git init
