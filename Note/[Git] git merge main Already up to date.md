@@ -20,5 +20,4 @@ $ git reset --hard origin/main
 그럴 땐 위 명령어로 원격 저장소를 모두 fetch한 후 
 해당 브랜치로 강제로 리셋시키면 된다는 정보를 알게 되었다.  
 하지만 이 방법은 현재 로컬의 작업내역이 날라갈 수 있다는 위험성이 있다.  
-[공식문서](https://stackoverflow.com/questions/25411366/git-repo-says-its-up-to-date-after-pull-but-files-are-not-updated/)  
-[출처](https://wiselog.tistory.com/170/)
+[참고](https://stackoverflow.com/questions/25411366/git-repo-says-its-up-to-date-after-pull-but-files-are-not-updated/)  
