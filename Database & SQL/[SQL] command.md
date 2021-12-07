@@ -64,5 +64,4 @@ SELECT name, age FROM Person;
 ### TCL(Transaction Control Language) : 트랜젝션 제어
 - COMMIT, ROLLBACK, SAVEPOINT 등이 있다.
  
-[참고](https://pbj0812.tistory.com/156/)
 
