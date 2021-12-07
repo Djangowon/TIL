@@ -37,7 +37,4 @@ DB의 django_migrations 테이블을 확인해보면 지금까지 migrate를 하
 이 에러를 확인하는 과정에서 나는 왔다갔다 수정하며 여러부분을 건들였기 때문에 파일 하나 삭제가 아니라 전체를 밀어버렸다.   
 
 이전에 해결하려고 했던 방법은 mysql DB의 django_migrations 안에 있는 `0001_initial.py`를 지워주는 것이 아니라 DB 밖에서 즉, 해당 app이름 폴더/migrations 폴더 안에 있는 `0001_initial.py`만 지워준 것이었다. DB의 django_migrations 안에 있는 0001, 0002~ 파일도 지워주고 drop table을 통해 테이블을 초기화시키면 makemigrations 와 migrate 가 정상 동작한다.
-  
----
- 
-[참고자료](https://yungyikim-blog.tistory.com/entry/Django-%EB%B3%80%EA%B2%BD-%ED%95%AD%EB%AA%A9%EC%9D%B4-%EC%9E%88%EC%9D%8C%EC%97%90%EB%8F%84-migrate-%ED%96%88%EC%9D%84%EB%95%8C-No-migrations-to-apply%EC%9D%BC-%EA%B2%BD%EC%9A%B0/)
+
