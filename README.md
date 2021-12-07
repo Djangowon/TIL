@@ -13,6 +13,7 @@
 * [[Git] error: error: Your local changes to the following files would be overwritten by checkout](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20error:%20Your%20local%20changes%20to%20the%20following%20files%20would%20be%20overwritten%20by%20checkout.md/)
 * [[Git] git merge main Already up to date](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20merge%20main%20Already%20up%20to%20date.md/)
 * [[Git] revert & reset --hard, --mixed, --soft](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20revert%20%26%20reset%20--hard%2C%20--mixed%2C%20--soft.md/)
+* [[Git] git stash](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20stash.md/)
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
