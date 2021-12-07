@@ -19,6 +19,4 @@ git stash
 #### 예방방법
 * git status 로 항상 확인!
 
-[참고](https://goddaehee.tistory.com/253/)  
 [참고](https://steemit.com/develope/@snowsprout/git-git-pull-error-your-local-changes-to-the-following-files-would-be-overwritten-by-merge/)  
-[참고](https://ucong-9796.tistory.com/44/)  
