@@ -26,7 +26,7 @@
 * [[Python] sys.module, sys.path, absolute path, relative path](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20sys.module,%20sys.path,%20absolute%20path,%20relative%20path.md/)
 * [[Python] Coding Convention](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Coding%20Convention.md/)
 * [[Python] Create secret key](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Create%20secret%20key.md/)
-* [[Python] Use CryptContext](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Use%20CryptContext.md/)
+* [[Python] passlib.context CryptContext](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20passlib.context%20CryptContext.md/)
 
 # Django
 * [[Django] Basic concept](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20basic%20concept.md/)
