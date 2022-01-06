@@ -15,7 +15,6 @@
 * [[Git] revert & reset --hard, --mixed, --soft](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20revert%20%26%20reset%20--hard%2C%20--mixed%2C%20--soft.md/)
 * [[Git] git stash](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20stash.md/)
 * [DDD(Domain Driven Design)](https://github.com/Djangowon/TIL/blob/main/Note/DDD(Domain%20Driven%20Design).md/)
-* [[Python] Create secret key](https://github.com/Djangowon/TIL/blob/main/Note/%5BPython%5D%20Create%20secret%20key.md/)
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
@@ -26,6 +25,7 @@
 * [[Python] Function Parameter](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Function%20Parameter.md/)
 * [[Python] sys.module, sys.path, absolute path, relative path](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20sys.module,%20sys.path,%20absolute%20path,%20relative%20path.md/)
 * [[Python] Coding Convention](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Coding%20Convention.md/)
+* [[Python] Create secret key](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Create%20secret%20key.md/)
 
 # Django
 * [[Django] Basic concept](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20basic%20concept.md/)
