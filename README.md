@@ -15,6 +15,7 @@
 * [[Git] revert & reset --hard, --mixed, --soft](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20revert%20%26%20reset%20--hard%2C%20--mixed%2C%20--soft.md/)
 * [[Git] git stash](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20stash.md/)
 * [DDD(Domain Driven Design)](https://github.com/Djangowon/TIL/blob/main/Note/DDD(Domain%20Driven%20Design).md/)
+* [[Python] Create secret key](https://github.com/Djangowon/TIL/blob/main/Note/%5BPython%5D%20Create%20secret%20key.md/)
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
