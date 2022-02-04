@@ -16,6 +16,9 @@
 * [[Git] git stash](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20stash.md/)
 * [DDD(Domain Driven Design)](https://github.com/Djangowon/TIL/blob/main/Note/DDD(Domain%20Driven%20Design).md/)
 
+# Computer Science
+* [[DataStructure] Array vs LinkedList]
+
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
 * [[MySQL] Data backup & recovery](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/%5BMySQL%5D%20Data%20backup%20and%20recovery.md/)
