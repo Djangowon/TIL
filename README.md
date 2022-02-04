@@ -17,7 +17,7 @@
 * [DDD(Domain Driven Design)](https://github.com/Djangowon/TIL/blob/main/Note/DDD(Domain%20Driven%20Design).md/)
 
 # Computer Science
-* [[Data Structure] Array vs LinkedList]
+* [[Data Structure] Big O notation](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Data%20Structure/%08Big%20O%20notation.md/)
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
