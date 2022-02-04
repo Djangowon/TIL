@@ -17,7 +17,7 @@
 * [DDD(Domain Driven Design)](https://github.com/Djangowon/TIL/blob/main/Note/DDD(Domain%20Driven%20Design).md/)
 
 # Computer Science
-* [[DataStructure] Array vs LinkedList]
+* [[Data Structure] Array vs LinkedList]
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
