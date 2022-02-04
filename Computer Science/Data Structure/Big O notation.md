@@ -83,5 +83,5 @@ def print_twice(arr):
 * 이진 검색은 정렬되지 않은 배열엔 사용할 수 없다.  
     => 빅오 표기법은 시간 복잡도 외에도 공간 복잡도를 표현하는데 널리 쓰이는데, 알고리즘은 `시간과 공간이 트레이드 오프 관계이다` (트레이드 오프 : 하나가 증가하면 다른 하나는 감소한다.)
     
-## 시간복잡도 그래프 
+### 시간복잡도 그래프 
 <img src="https://github.com/Djangowon/TIL/blob/main/image/big_o_notation.png/" width=70% height=70%/>
