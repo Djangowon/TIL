@@ -40,5 +40,5 @@
 * 삽입과 삭제가 빈번하다면 LinkedList를 사용하는 것이 더 좋다.
 * 데이터의 접근하는 게 중요하다면 Array를 사용하는 것이 좋다.
 
-[Ref](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/DataStructure#array-vs-linked-list/)
+[Ref](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/DataStructure#array-vs-linked-list/)  
 [Ref](https://woovictory.github.io/2018/12/27/DataStructure-Diff-of-Array-LinkedList/)
