@@ -1,5 +1,7 @@
 # Stack and Queue
 ## Stack
+<img src="https://github.com/Djangowon/TIL/blob/main/image/stack.png" width=40% height=40%/>
+
 * stack이란 쌓아 올린다는 것을 의미함
 * 스택 자료구조라는 것은 책을 쌓는 것처럼 차곡차곡 쌓아 올린 형태의 자료구조를 말함
 ### Stack의 특징
@@ -18,6 +20,8 @@
 * 수식의 괄호 검사 (연산자 우선순위 표현을 위한 괄호 검사)
 
 ## Queue
+<img src="https://github.com/Djangowon/TIL/blob/main/image/queue.png" width=40% height=40%/>  
+
 * 영어 단어 Queue는 표를 사러 일렬로 늘어선 사람들로 이루어진 줄을 의미함, 먼저 줄을 선 사람이 먼저 나갈 수 있는 상황을 연상하면 된다.
 * Queue는 먼저 집어 넣은 데이터가 먼저 나오는 `FIFO(First-In-First-Out)구조`로 저장하는 형식을 말한다. 
 * 나중에 집어 넣은 데이터가 먼저 나오는 스택과 반대되는 개념
