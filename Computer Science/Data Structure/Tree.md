@@ -30,7 +30,12 @@
 ## Tree Traversal(트리의 순회)
 * 트리 자료구조에 포함된 노드를 특정한 방법으로 한 번씩 방문하는 방법을 의미함
     * 트리의 정보를 시각적으로 확인가능
+
+<img src="https://github.com/Djangowon/TIL/blob/main/image/145_transverse.png" height=90% width=90%>
+
+
 ### 대표적인 트리 순회 방법
 * 전위 순회(pre-order traverse): 루트를 먼저 방문한다.
 * 중위 순회(in-order traverse): 왼쪽 자식을 방문한 뒤에 루트를 방문한다.
 * 후위 순회(post-order traverse): 오른쪽 자식을 방문한 뒤에 루트를 방문한다.
+
