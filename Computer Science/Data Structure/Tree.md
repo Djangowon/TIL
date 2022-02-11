@@ -13,9 +13,31 @@
 
 기본적으로 트리의 크기가 N일 때(즉, 트리에 포함되어 있는 노드의 개수가 N개 일 때), 전체 간선의 개수는 N-1개 이다.
 
+## Binary Tree(이진 트리)
+* 이진트리(Binary tree)란 모든 노드들이 둘 이하의 자식을 가진 트리이다.
+<img src="https://github.com/Djangowon/TIL/blob/main/image/binary_tree.png" height=80% width=80%>
+
+
+## Binary Tree 유형
+### Full Binary Tree or Strict Binary Tree(전 이진 트리)
+* 전 이진 트리는 모든 노드가 0개 또는 2개의 자식 노드를 갖는 트리이다.
+<img src="https://github.com/Djangowon/TIL/blob/main/image/full_binary_tree.png" height=80% width=80%>
+
+### Complete Binary Tree(완전 이진 트리)
+* 완전 이진 트리는 마지막 레벨을 제외하고 모든 레벨이 완전히 채워져 있는 트리이다.
+* 마지막 레벨은 꽉 차 있지 않아도 되지만 노드가 왼쪽에서 오른쪽으로 채워져야 한다.
+<img src="https://github.com/Djangowon/TIL/blob/main/image/complete_binary_tree.png" height=80% width=80%>
+
+### Perfect Binary Tree(포화 이진 트리)
+* 포화 이진 트리는 모든 내부 노드가 두 개의 자식 노드를 가지며 모든 잎 노드가 동일한 깊이 또는 레벨을 갖는다.
+<img src="https://github.com/Djangowon/TIL/blob/main/image/perfect_binary_tree.png" height=80% width=80%>
+
+### Balanced Binary Tree(균형 이진 트리)
+* 균형 이진 트리는 왼쪽과 오른쪽 트리의 높이 차이가 모두 1만큼 나는 트리이다.
+<img src="https://github.com/Djangowon/TIL/blob/main/image/balanced_binary_tree.png" height=80% width=80%>
+
 ## Binary Search Tree(이진 탐색 트리)
 <img src="https://github.com/Djangowon/TIL/blob/main/image/binary-search-tree.png" height=80% width=80%>
-
 
 * 이진 탐색이 동작할 수 있도록 고안된 효율적인 탐색이 가능한 자료구조의 일종
 * 이진 탐색 트리의 특징: 왼쪽 자식 노드 < 부모 노드 < 오른쪽 자식 노드
@@ -39,3 +61,4 @@
 * 중위 순회(in-order traverse): 왼쪽 자식을 방문한 뒤에 루트를 방문한다.
 * 후위 순회(post-order traverse): 오른쪽 자식을 방문한 뒤에 루트를 방문한다.
 
+[Ref](https://yoongrammer.tistory.com/69/)
