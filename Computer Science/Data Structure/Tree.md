@@ -14,6 +14,9 @@
 기본적으로 트리의 크기가 N일 때(즉, 트리에 포함되어 있는 노드의 개수가 N개 일 때), 전체 간선의 개수는 N-1개 이다.
 
 ## Binary Search Tree(이진 탐색 트리)
+<img src="https://github.com/Djangowon/TIL/blob/main/image/binary-search-tree.png" height=90% width=90%>
+
+
 * 이진 탐색이 동작할 수 있도록 고안된 효율적인 탐색이 가능한 자료구조의 일종
 * 이진 탐색 트리의 특징: 왼쪽 자식 노드 < 부모 노드 < 오른쪽 자식 노드
     * 부모 노드보다 왼쪽 자식 노드가 작다.
