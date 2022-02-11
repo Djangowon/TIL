@@ -1,5 +1,8 @@
 # Tree
 * 트리는 가계도와 같은 계층적인 구조를 표현할 때 사용할 수 있는 자료구조임
+<img src="https://github.com/Djangowon/TIL/blob/main/image/tree.png" height=90% width=90%>
+
+
 ### 트리 관련 용어
 * 루트 노드(root node): 부모가 없는 최상위 노드
 * 단말 노드(leaf node): 자식이 없는 노드
