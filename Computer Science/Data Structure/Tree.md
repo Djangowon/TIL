@@ -1,6 +1,6 @@
 # Tree
 * 트리는 가계도와 같은 계층적인 구조를 표현할 때 사용할 수 있는 자료구조임
-<img src="https://github.com/Djangowon/TIL/blob/main/image/tree.png" height=90% width=90%>
+<img src="https://github.com/Djangowon/TIL/blob/main/image/tree.png" height=80% width=80%>
 
 
 ### 트리 관련 용어
@@ -14,7 +14,7 @@
 기본적으로 트리의 크기가 N일 때(즉, 트리에 포함되어 있는 노드의 개수가 N개 일 때), 전체 간선의 개수는 N-1개 이다.
 
 ## Binary Search Tree(이진 탐색 트리)
-<img src="https://github.com/Djangowon/TIL/blob/main/image/binary-search-tree.png" height=90% width=90%>
+<img src="https://github.com/Djangowon/TIL/blob/main/image/binary-search-tree.png" height=80% width=80%>
 
 
 * 이진 탐색이 동작할 수 있도록 고안된 효율적인 탐색이 가능한 자료구조의 일종
@@ -31,7 +31,7 @@
 * 트리 자료구조에 포함된 노드를 특정한 방법으로 한 번씩 방문하는 방법을 의미함
     * 트리의 정보를 시각적으로 확인가능
 
-<img src="https://github.com/Djangowon/TIL/blob/main/image/145_transverse.png" height=90% width=90%>
+<img src="https://github.com/Djangowon/TIL/blob/main/image/145_transverse.png" height=80% width=80%>
 
 
 ### 대표적인 트리 순회 방법
