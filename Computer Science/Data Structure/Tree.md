@@ -28,5 +28,3 @@
 * 전위 순회(pre-order traverse): 루트를 먼저 방문한다.
 * 중위 순회(in-order traverse): 왼쪽 자식을 방문한 뒤에 루트를 방문한다.
 * 후위 순회(post-order traverse): 오른쪽 자식을 방문한 뒤에 루트를 방문한다.
-
-[Ref](https://youtu.be/i5yHkP1jQmo/)
