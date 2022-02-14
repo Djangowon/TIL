@@ -1,4 +1,4 @@
-# Initial Setting
+# FastAPI Initial Setting
 PyCharm으로 처음 프로젝트를 만들면 `main.py` 이 생성된 모습
 
 
