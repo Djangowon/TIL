@@ -45,7 +45,7 @@ $ uvicorn main:app --reload --host=0.0.0.0 --port=8000 # +모든 접근 가능, 
 
 Hello World가 잘 출력된다.
 
-#### swagger를 통해 테스트해보기
+#### Swagger를 통해 테스트해보기
 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs/)  
 
 <img src="https://github.com/Djangowon/TIL/blob/main/image/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-02-14%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.39.35.png" height=60% width=60%>
