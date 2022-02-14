@@ -36,7 +36,7 @@
 * [[Python] passlib.context CryptContext](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20passlib.context%20CryptContext.md/)
 
 # FastAPI
-* [[FastAPI] Initial Setting](https://github.com/Djangowon/TIL/blob/main/FastAPI/%5BFastAPI%5D%20FastAPI%20Initial%20Setting.md/)
+* [[FastAPI] Initial Setting](https://github.com/Djangowon/TIL/blob/main/FastAPI/%5BFastAPI%5D%20Initial%20Setting.md/)
 * [[FastAPI] h11._util.LocalProtocolError: Too much data for declared Content-Length](https://github.com/Djangowon/TIL/blob/main/FastAPI/%5BFastAPI%5D%20h11._util.LocalProtocolError:%20Too%20much%20data%20for%20declared%20Content-Length.md/)
 
 # Django
