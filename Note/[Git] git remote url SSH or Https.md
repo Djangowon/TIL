@@ -27,3 +27,5 @@ $ git remote set-url oprigin git@github.com:Djangowon/branch.git
 ```
 $ git remote set-url oprigin git@github.com:Djangowon/branch.git
 ```
+
+[Ref](https://kibua20.tistory.com/88/)
