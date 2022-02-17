@@ -14,6 +14,7 @@
 * [[Git] git merge main Already up to date](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20merge%20main%20Already%20up%20to%20date.md/)
 * [[Git] revert & reset --hard, --mixed, --soft](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20revert%20%26%20reset%20--hard%2C%20--mixed%2C%20--soft.md/)
 * [[Git] git stash](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20stash.md/)
+* [[Git] git remote url SSH or Https](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20remote%20url%20SSH%20or%20Https.md/)
 * [DDD(Domain Driven Design)](https://github.com/Djangowon/TIL/blob/main/Note/DDD(Domain%20Driven%20Design).md/)
 
 # Computer Science
