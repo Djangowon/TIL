@@ -23,6 +23,7 @@
 * [[Data Structure] Array vs Linked List](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Data%20Structure/Array%20vs%20Linked%20List.md/)
 * [[Data Structure] Stack and Queue](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Data%20Structure/Stack%20and%20Queue.md/)
 * [[Data Structure] Tree](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Data%20Structure/Tree.md/)
+* [[Algorithm] The Importance of Algorithms in Computer Programming](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/The%20Importance%20of%20Algorithms%20in%20Computer%20Programming.md/)
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
