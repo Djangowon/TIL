@@ -49,7 +49,7 @@
 * [[Django] QuerySet API](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20QuerySet%20API.md/)
 
 # C / C++
-* [[C] C Language - Overview]
+* [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
 
 # Replit
 * [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
