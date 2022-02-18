@@ -29,6 +29,9 @@
 * [[MySQL] Data backup & recovery](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/%5BMySQL%5D%20Data%20backup%20and%20recovery.md/)
 * [[SQLite] SQLite Data Type](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/%5BSQLite%5D%20SQLite%20Data%20Type.md/)
 
+# C / C++
+* [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
+
 # Python
 * [[Python] Python Basic Grammar](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Basic%20Grammar.md/)
 * [[Python] Function Parameter](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Function%20Parameter.md/)
@@ -48,9 +51,6 @@
 * [[Django] view](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20View.md/)
 * [[Django] Data & Field](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20Data%20%26%20Field.md/)
 * [[Django] QuerySet API](https://github.com/Djangowon/TIL/blob/main/Django/%5BDjango%5D%20QuerySet%20API.md/)
-
-# C / C++
-* [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
 
 # Replit
 * [28.Function Parameters](https://github.com/rosewoodowon/TIL/blob/main/Replit/28.FunctionParameters.md)
