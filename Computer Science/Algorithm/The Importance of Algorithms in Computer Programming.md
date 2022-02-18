@@ -15,6 +15,9 @@
     * 즉, 적절한 자료구조와 적절한 알고리즘이 잘 조화가 되어야지만 효율적인(좋은) 프로그램을 만들 수 있다.
 
 ### 기본적인 자료구조 간단 정리
+<img src="https://github.com/Djangowon/TIL/blob/main/image/linear%20non-linear.png" height=80% width=80%>
+
+
 #### 선형 linear 자료구조
 * 배열: 같은 자료형을 갖는 여러 데이터를 하나의 변수 이름으로 모아놓은 데이터의 집합체 
     * “논리적 순서 = 물리적 순서” 
