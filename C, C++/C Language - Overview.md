@@ -98,5 +98,5 @@ OS처럼 거대한 프로그램을 개발해야 하므로 체계적으로 구조
 * 무시해도 상관 없음
 
 
-[Ref](https://jeaha.dev/83/)
+[Ref](https://jeaha.dev/83/)  
 [Ref](https://turtlog.tistory.com/3/)
