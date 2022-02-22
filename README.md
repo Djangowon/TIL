@@ -31,6 +31,7 @@
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
 * [[MySQL] Data backup & recovery](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/%5BMySQL%5D%20Data%20backup%20and%20recovery.md/)
 * [[SQLite] SQLite Data Type](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/%5BSQLite%5D%20SQLite%20Data%20Type.md/)
+* [[Database System] Understanding Databases](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/Database%20System/Understanding%20Databases.md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
