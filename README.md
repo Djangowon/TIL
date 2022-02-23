@@ -26,6 +26,7 @@
 * [[Data Structure] Stack and Queue](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Data%20Structure/Stack%20and%20Queue.md/)
 * [[Data Structure] Tree](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Data%20Structure/Tree.md/)
 * [[Algorithm] The Importance of Algorithms in Computer Programming](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/The%20Importance%20of%20Algorithms%20in%20Computer%20Programming.md/)
+* [[Algorithm] Basics of Algorithms](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/Basics%20of%20Algorithms.md/)
 * [[OS] Operating System Overview](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Operating%20System%20Overview.md/)
 
 # Database & SQL
