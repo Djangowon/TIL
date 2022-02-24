@@ -38,6 +38,7 @@
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
+* [[C] Data type and preprocessor](https://github.com/Djangowon/TIL/blob/main/C,%20C++/Data%20type%20and%20preprocessor.md/)
 
 # Python
 * [[Python] Python Basic Grammar](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Basic%20Grammar.md/)
