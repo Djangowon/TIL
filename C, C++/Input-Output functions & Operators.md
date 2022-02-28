@@ -140,3 +140,9 @@ void main() {
     * char s[50];  
     * gets(s);
 
+## puts() 함수
+* 형식: puts(변수);
+* 기능: 문자열을 화면에 출력한다.
+* ex)
+    * char s[50]="seoul";
+    * puts(s);
