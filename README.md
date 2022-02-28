@@ -19,6 +19,7 @@
 * [Markdown Guide](https://github.com/Djangowon/TIL/blob/main/Note/Markdown%20Guide.md/)
 * [[Internet and Information society] Data & Information](https://github.com/Djangowon/TIL/blob/main/Note/Internet%20and%20Information%20society/Data%20%26%20Information.md/)
 * [[Internet and Information society] Computer & Program](https://github.com/Djangowon/TIL/blob/main/Note/Internet%20and%20Information%20society/Computer%20%26%20Program.md/)
+* [[Internet and Information society] Composition on Computer](https://github.com/Djangowon/TIL/blob/main/Note/Internet%20and%20Information%20society/Composition%20on%20Computer.md/)
 
 # Computer Science
 * [[Data Structure] Big O notation](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Data%20Structure/%08Big%20O%20notation.md/)
