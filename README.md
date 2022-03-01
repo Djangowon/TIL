@@ -30,6 +30,7 @@
 * [[Algorithm] Basics of Algorithms](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/Basics%20of%20Algorithms.md/)
 * [[OS] Operating System Overview](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Operating%20System%20Overview.md/)
 * [[OS] Process Overview](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Process%20Overview.md/)
+* [[OS] Scheduling Algorithm](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Scheduling%20Algorithm.md/)
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
