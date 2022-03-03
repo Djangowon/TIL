@@ -51,8 +51,21 @@
 * 프로그래밍 언어에서의 변수를 생성하는 데이터 타입의 사용목적과 방법이 매우 유사
 * 기본 데이터 타입
     * 문자
-        > CHAR(n), VARCHAR(n), TEXT
+        > `CHAR(n)`, `VARCHAR(n)`, `TEXT`
     * 숫자
-        > INT, FLOAT, DOUBLE, DECIMAL(m, n)
+        > `INT`, `FLOAT`, `DOUBLE`, `DECIMAL(m, n)`
     * 날짜/시간
-        > DATE, TIME, DATETIME, TIMESTAMP
+        > `DATE`, `TIME`, `DATETIME`, `TIMESTAMP`
+
+### 정수 데이터 타입
+* TINYINT - 1바이트 정수, -128~127
+   * 나이, 학년 등의 크기가 작은 정수
+
+* SMALLINT - 2바이트 정수, -32768~32767
+   * 물품번호, 인원 등 중간 크기의 정수
+
+* INT -  4바이트 정수, 약 -20억~20억
+   * 물품의 금액, 전화번호 등의 일반 크기의 정수
+
+* BIGINT - 8바이트 정수
+   * 계좌의 잔고, 천문학적인 크기의 정수
