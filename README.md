@@ -44,6 +44,7 @@
 * [[Database System] Database Modeling](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/Database%20System/Database%20Modeling.md/)
 * [[Database System] Relational Model](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/Database%20System/Relational%20Model.md/)
 * [[Database System] SQL-DDL](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/Database%20System/SQL%20(1).md/)
+* [[Database System] SQL-DML](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/Database%20System/SQL%20(2).md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
