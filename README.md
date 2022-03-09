@@ -35,6 +35,7 @@
 * [[OS] Process Overview](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Process%20Overview.md/)
 * [[OS] Scheduling Algorithm](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Scheduling%20Algorithm.md/)
 * [[OS] Concurrent Process (1)](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Concurrent%20Process%20(1).md/)
+* [[OS] Concurrent Process (2)](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Concurrent%20Process%20(2).md/)
 
 # Database & SQL
 * [[SQL] Command](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/%5BSQL%5D%20command.md/)
