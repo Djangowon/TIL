@@ -1,4 +1,4 @@
-# Internet and the World Wide Web
+# Internet and World Wide Web
 ## 월드와이드웹의 이해
 ### Internet
 * INTER NETwork의 준말
