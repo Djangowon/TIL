@@ -53,6 +53,7 @@
 * [[Database System] SQL-DDL](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/Database%20System/SQL%20(1).md/)
 * [[Database System] SQL-DML](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/Database%20System/SQL%20(2).md/)
 * [[Database System] SQL-Query & View](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/Database%20System/SQL%20(3).md/)
+* [[Database System] Normalization](https://github.com/Djangowon/TIL/blob/main/Database%20&%20SQL/Database%20System/Normalization.md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
