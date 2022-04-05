@@ -36,6 +36,7 @@
 * [[Algorithm] Dynamic programming algorithm (1)](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/Dynamic%20programming%20algorithm%20(1).md/)
 * [[Algorithm] Dynamic programming algorithm (2)](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/Dynamic%20programming%20algorithm%20(2).md/)
 * [[Algorithm] Greedy algorithm (1)](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/Greedy%20algorithm%20(1).md/)
+* [[Algorithm] Greedy algorithm (2)](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/Algorithm/Greedy%20algorithm%20(2).md/)
 * [[OS] Operating System Overview](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Operating%20System%20Overview.md/)
 * [[OS] Process Overview](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Process%20Overview.md/)
 * [[OS] Scheduling Algorithm](https://github.com/Djangowon/TIL/blob/main/Computer%20Science/OS/Scheduling%20Algorithm.md/)
