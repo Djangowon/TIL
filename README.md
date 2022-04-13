@@ -15,7 +15,7 @@
 * [[Git] revert & reset --hard, --mixed, --soft](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20revert%20%26%20reset%20--hard%2C%20--mixed%2C%20--soft.md/)
 * [[Git] git stash](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20stash.md/)
 * [[Git] git remote url SSH or Https](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20git%20remote%20url%20SSH%20or%20Https.md/)
-* [[Git] delete __pycache__](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20delete%20__pycache__.md/)
+* [[Git] delete \_\_pycache\_\_](https://github.com/Djangowon/TIL/blob/main/Note/%5BGit%5D%20delete%20__pycache__.md/)
 * [DDD(Domain Driven Design)](https://github.com/Djangowon/TIL/blob/main/Note/DDD(Domain%20Driven%20Design).md/)
 * [Markdown Guide](https://github.com/Djangowon/TIL/blob/main/Note/Markdown%20Guide.md/)
 * [[Internet and Information society] Data & Information](https://github.com/Djangowon/TIL/blob/main/Note/Internet%20and%20Information%20society/Data%20%26%20Information.md/)
