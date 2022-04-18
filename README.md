@@ -70,6 +70,7 @@
 * [[C] Function & Storage class (1)](https://github.com/Djangowon/TIL/blob/main/C%2C%20C%2B%2B/Function%20%26%20Storage%20class%20(1).md/)
 * [[C] Function & Storage class (2)](https://github.com/Djangowon/TIL/blob/main/C%2C%20C%2B%2B/Function%20%26%20Storage%20class%20(2).md/)
 * [[C] Arrays and Pointers (1)](https://github.com/Djangowon/TIL/blob/main/C,%20C++/Arrays%20and%20Pointers%20(1).md/)
+* [[C] Arrays and Pointers (2)](https://github.com/Djangowon/TIL/blob/main/C%2C%20C%2B%2B/Arrays%20and%20Pointers%20(2).md/)
 * [[Visual C++] Overview of Windows Programming](https://github.com/Djangowon/TIL/blob/main/C%2C%20C%2B%2B/Visual%20C%2B%2B/Overview%20of%20Windows%20Programming.md/)
 
 # Python
