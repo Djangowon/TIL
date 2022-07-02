@@ -69,6 +69,7 @@
 # React
 * [[CodingApple] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
 * [[CodingApple] If realtime data is important, react-query](https://github.com/Djangowon/TIL/blob/main/React/If%20real-time%20data%20is%20important%2C%20react-query.md/)
+* [[CodingApple] Developer Tools & lazy import](https://github.com/Djangowon/TIL/blob/main/React/Developer%20Tools%20%26%20lazy%20import.md/)
 
 # React-Native
 
