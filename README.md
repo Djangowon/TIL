@@ -71,6 +71,7 @@
 * [[CodingApple] If realtime data is important, react-query](https://github.com/Djangowon/TIL/blob/main/React/If%20real-time%20data%20is%20important%2C%20react-query.md/)
 * [[CodingApple] Developer Tools & lazy import](https://github.com/Djangowon/TIL/blob/main/React/Developer%20Tools%20%26%20lazy%20import.md/)
 * [[CodingApple] Avoid unnecessary rendering, memo, useMemo](https://github.com/Djangowon/TIL/blob/main/React/Avoid%20unnecessary%20rendering%2C%20memo%2C%20useMemo.md/)
+* [[CodingApple] batching, useTransition, useDeferredValue](https://github.com/Djangowon/TIL/blob/main/React/batching%2C%20useTransition%2C%20useDeferredValue.md/)
 
 # React-Native
 
