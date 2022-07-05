@@ -63,6 +63,7 @@
 * [[Database System] Indexing](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/Database%20System/Indexing.md/)
 
 # Java
+* [[Java] abstract class & interface](https://github.com/Djangowon/TIL/blob/main/Java/abstract%20class%20%26%20interface.md/)
 
 # Spring / SpringBoot
 
