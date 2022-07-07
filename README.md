@@ -62,10 +62,10 @@
 * [[Database System] Data Storage](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/Database%20System/Data%20Storage.md/)
 * [[Database System] Indexing](https://github.com/Djangowon/TIL/blob/main/Database%20%26%20SQL/Database%20System/Indexing.md/)
 
-# Java
-* [[Java] abstract class & interface](https://github.com/Djangowon/TIL/blob/main/Java/abstract%20class%20%26%20interface.md/)
+# JavaScript
+* [[JavaScript] JavaScript on the browser](https://github.com/Djangowon/TIL/blob/main/JavaScript/JavaScript%20on%20the%20browser.md/)
 
-# Spring / SpringBoot
+# TypeScript
 
 # React
 * [[CodingApple] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
@@ -75,6 +75,11 @@
 * [[CodingApple] batching, useTransition, useDeferredValue](https://github.com/Djangowon/TIL/blob/main/React/batching%2C%20useTransition%2C%20useDeferredValue.md/)
 
 # React-Native
+
+# Java
+* [[Java] abstract class & interface](https://github.com/Djangowon/TIL/blob/main/Java/abstract%20class%20%26%20interface.md/)
+
+# Spring / SpringBoot
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
@@ -87,9 +92,6 @@
 * [[C] Arrays and Pointers (1)](https://github.com/Djangowon/TIL/blob/main/C,%20C++/Arrays%20and%20Pointers%20(1).md/)
 * [[C] Arrays and Pointers (2)](https://github.com/Djangowon/TIL/blob/main/C%2C%20C%2B%2B/Arrays%20and%20Pointers%20(2).md/)
 * [[Visual C++] Overview of Windows Programming](https://github.com/Djangowon/TIL/blob/main/C%2C%20C%2B%2B/Visual%20C%2B%2B/Overview%20of%20Windows%20Programming.md/)
-
-# JavaScript
-* [[JavaScript] JavaScript on the browser](https://github.com/Djangowon/TIL/blob/main/JavaScript/JavaScript%20on%20the%20browser.md/)
 
 # Python
 * [[Python] Python Basic Grammar](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Basic%20Grammar.md/)
