@@ -35,6 +35,8 @@
 <br>
 <br>
 
+* 결론: this의 뜻이 달라지는 것 처럼 일반 function과 용도가 완전 같지 않기 때문에 일반 function을 항상 대체할 수 있는 문법이 아님
+
 
 ## Ref
 https://codingapple.com/course/javascript-es6/  
