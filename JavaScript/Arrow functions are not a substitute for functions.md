@@ -21,3 +21,22 @@
 * 함수 본연의 기능을 잘 표현하는 문법임, arrow function을 사용하면 함수 본연의 입출력 기능을 아주 직관적으로 잘 표현함
     > 함수의 입출력 기능: input을 집어넣으면 output을 출력해주는 것 (소괄호에 뭔가 집어넣으면 return을 이용해 뭔가 뱉어내는 것)
 
+* 소괄호를 생략이 가능함
+   * 파라미터가 하나라면 소괄호를 생략 가능
+
+* 중괄호를 생략이 가능함
+   * 중괄호 안에 return이 한 줄 뿐이라면 중괄호와 return도 생략 가능
+
+* arrow function을 쓰면 내부에서 this값을 쓸 때 밖에 있던 this값을 그대로 사용함
+   * 어디서 쓰든지 내부의 this값을 변화시키지 않고, 외부의 this의미를 그대로 내부에서 사용하는 함수가 arros function
+   * arrow function의 장점이자 사용하는 핵심 이유
+
+
+<br>
+<br>
+
+
+## Ref
+https://codingapple.com/course/javascript-es6/  
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
