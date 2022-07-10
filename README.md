@@ -65,6 +65,7 @@
 # JavaScript
 * [[JavaScript] JavaScript on the browser](https://github.com/Djangowon/TIL/blob/main/JavaScript/JavaScript%20on%20the%20browser.md/)
 * [[JavaScript] The JavaScript this Keyword](https://github.com/Djangowon/TIL/blob/main/JavaScript/The%20JavaScript%20this%20Keyword.md/)
+* [[JavaScript] Arrow functions are not a substitute for functions](https://github.com/Djangowon/TIL/blob/main/JavaScript/Arrow%20functions%20are%20not%20a%20substitute%20for%20functions.md/)
 
 # TypeScript
 
