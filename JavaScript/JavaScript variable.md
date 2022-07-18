@@ -35,6 +35,16 @@
 * 함수선언도 호이스팅 현상이 일어남
 
 <br>
+
+### temporal deadzone / uninitialized
+* var는 호이스팅시 undefined 할당 됨
+* let, const는 호이스팅시 자동으로 할당 안됨
+
+### function 함수 / var 함수
+* function 함수() {} : 전부가 호이스팅됨
+* var 함수 = function() {} : 선언 부분만 호이스팅됨
+
+<br>
 <br>
 
 ## 전역변수
