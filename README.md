@@ -82,6 +82,7 @@
 # Java
 * [[Java] abstract class & interface](https://github.com/Djangowon/TIL/blob/main/Java/abstract%20class%20%26%20interface.md/)
 * [[Java] String, StringBuffer, StringBuilder](https://github.com/Djangowon/TIL/blob/main/Java/String%2C%20StringBuffer%2C%20StringBuilder.md/)
+* [[Java] Wrapper class & Generic](https://github.com/Djangowon/TIL/blob/main/Java/Wrapper%20class%20%26%20Generic.md/)
 
 # Spring / SpringBoot
 
