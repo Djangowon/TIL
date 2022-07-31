@@ -80,6 +80,7 @@
 * [[Java] String, StringBuffer, StringBuilder](https://github.com/Djangowon/TIL/blob/main/Java/String%2C%20StringBuffer%2C%20StringBuilder.md/)
 * [[Java] Wrapper class & Generic](https://github.com/Djangowon/TIL/blob/main/Java/Wrapper%20class%20%26%20Generic.md/)
 * [[JPA] Problems with SQL-centric development & JPA](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Problems%20with%20SQL-centric%20development%20%26%20JPA.md/)
+* [[JPA] About JPA, JPQL](https://github.com/Djangowon/TIL/blob/main/Java/JPA/About%20JPA%2C%20JPQL.md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
