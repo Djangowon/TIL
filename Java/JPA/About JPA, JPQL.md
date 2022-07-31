@@ -115,3 +115,11 @@ Hibernate:
 	* 검색을 할 때도 테이블이 아닌 엔티티 객체를 대상으로 검색
 	* 모든 DB 데이터를 객체로 변환해서 검색하는 것은 불가능함
 	* 애플리케이션이 필요한 데이터만 DB에서 불러오려면 결국 검색 조건이 포함된 SQL이 필요함
+
+
+
+<br>
+<br>
+
+## Ref
+https://www.inflearn.com/course/ORM-JPA-Basic
