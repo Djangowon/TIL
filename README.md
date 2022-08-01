@@ -81,6 +81,7 @@
 * [[Java] Wrapper class & Generic](https://github.com/Djangowon/TIL/blob/main/Java/Wrapper%20class%20%26%20Generic.md/)
 * [[JPA] Problems with SQL-centric development & JPA](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Problems%20with%20SQL-centric%20development%20%26%20JPA.md/)
 * [[JPA] About JPA, JPQL](https://github.com/Djangowon/TIL/blob/main/Java/JPA/About%20JPA%2C%20JPQL.md/)
+* [[JPA] Persistence Context](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Persistence%20Context.md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
