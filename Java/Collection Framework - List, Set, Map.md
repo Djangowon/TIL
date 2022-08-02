@@ -57,6 +57,48 @@
 4. Stack\<E\>
 
 <br>
+
+
+```java
+        // 컬렉션 생성
+        List<String> al = new ArrayList<String>();
+        al.add("레몬차");
+        al.add("블루베리 스무디");
+        al.add("자몽허니 블랙티");
+        al.add("청귤차");
+
+        // iterator 획득
+        ListIterator<String> listIterator = al.listIterator();
+
+        // while문 사용
+        while(listIterator.hasNext())
+        {
+            String str = listIterator.next();
+            System.out.println(str);
+        }
+
+        // for-each문 사용 (Enhanced for 문), 리스트에서는 JDK 1.5부터 추가된 Enhanced for 문을 사용 권장
+        for (String str : al) {
+            System.out.println(str);
+        }
+
+        // iterator 사용하여 반복문 돌며 수정
+        while(listIterator.hasNext())
+        {
+            String str = listIterator.next();
+            listIterator.set(str + "1111");
+        }
+        System.out.println("수정 후 : " + al);
+
+        //역순 반복
+        while(listIterator.hasPrevious())
+        {
+            Object element = listIterator.previous();
+            System.out.print(element + " ");
+        }
+
+```
+<br>
 <br>
 
 
@@ -72,12 +114,31 @@
 2. Hashtable<K, V>
 3. TreeMap<K, V>
 
+<br>
+
+```java
+        Map<String, Integer> hm = new HashMap<>();
+
+        hm.put("일",1);
+        hm.put("이",2);
+        hm.put("삼",3);
+
+        
+        for (String key: hm.keySet()) {
+            System.out.println(key);
+        }
+```
+> Map도 Set과 마찬가지로 순서가 없기 때문에 출력해보면 순서대로 안 나옴
+
 
 <br>
 <br>
 
 
 ## Ref
-
+http://www.tcpschool.com/java/java_collectionFramework_concept  
 http://www.tcpschool.com/java/java_collectionFramework_iterator  
-https://onlyfor-me-blog.tistory.com/319
+https://onlyfor-me-blog.tistory.com/319  
+http://www.tcpschool.com/java/java_collectionFramework_list  
+http://www.tcpschool.com/java/java_collectionFramework_set  
+http://www.tcpschool.com/java/java_collectionFramework_map  
