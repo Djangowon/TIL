@@ -181,5 +181,28 @@ em.setFlushMode(FlushModeType.COMMIT)
 <br>
 <br>
 
+
+## 준영속 상태
+* 영속 -> 준영속
+* 영속 상태의 엔티티가 영속성 컨텍스트에서 분리(detached)
+* 영속성 컨텍스트가 제공하는 기능을 사용 못 함
+
+
+<br>
+<br>
+
+
+## 준영속 상태로 만드는 방법
+* em.detach(entity)
+	* 특정 엔티티만 준영속 상태로 전환
+* em.clear()
+	* 영속성 컨텍스트를 완전히 초기화
+* em.close()
+	* 영속성 컨텍스트를 종료
+
+<br>
+<br>
+
+
 ## Ref
 https://www.inflearn.com/course/ORM-JPA-Basic
