@@ -83,6 +83,7 @@
 * [[JPA] Problems with SQL-centric development & JPA](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Problems%20with%20SQL-centric%20development%20%26%20JPA.md/)
 * [[JPA] About JPA, JPQL](https://github.com/Djangowon/TIL/blob/main/Java/JPA/About%20JPA%2C%20JPQL.md/)
 * [[JPA] Persistence Context](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Persistence%20Context.md/)
+* [[JPA] Entity Mapping - Object to table mapping, Automatically create database schema](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Entity%20Mapping%20-%20Object%20to%20table%20mapping%2C%20Automatically%20create%20database%20schema.md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
