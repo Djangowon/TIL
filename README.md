@@ -68,13 +68,14 @@
 * [[JavaScript] Arrow functions are not a substitute for functions](https://github.com/Djangowon/TIL/blob/main/JavaScript/Arrow%20functions%20are%20not%20a%20substitute%20for%20functions.md/)
 * [[JavaScript] JavaScript variable](https://github.com/Djangowon/TIL/blob/main/JavaScript/JavaScript%20variable.md/)
 * [[JavaScript] Template literals](https://github.com/Djangowon/TIL/blob/main/JavaScript/Template%20literals.md/)
+* [[JavaScript] Spread Operator](https://github.com/Djangowon/TIL/blob/main/JavaScript/Spread%20Operator.md/)
 
 # React
-* [[CodingApple] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
-* [[CodingApple] If realtime data is important, react-query](https://github.com/Djangowon/TIL/blob/main/React/If%20real-time%20data%20is%20important%2C%20react-query.md/)
-* [[CodingApple] Developer Tools & lazy import](https://github.com/Djangowon/TIL/blob/main/React/Developer%20Tools%20%26%20lazy%20import.md/)
-* [[CodingApple] Avoid unnecessary rendering, memo, useMemo](https://github.com/Djangowon/TIL/blob/main/React/Avoid%20unnecessary%20rendering%2C%20memo%2C%20useMemo.md/)
-* [[CodingApple] batching, useTransition, useDeferredValue](https://github.com/Djangowon/TIL/blob/main/React/batching%2C%20useTransition%2C%20useDeferredValue.md/)
+* [[React] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
+* [[React] If realtime data is important, react-query](https://github.com/Djangowon/TIL/blob/main/React/If%20real-time%20data%20is%20important%2C%20react-query.md/)
+* [[React] Developer Tools & lazy import](https://github.com/Djangowon/TIL/blob/main/React/Developer%20Tools%20%26%20lazy%20import.md/)
+* [[React] Avoid unnecessary rendering, memo, useMemo](https://github.com/Djangowon/TIL/blob/main/React/Avoid%20unnecessary%20rendering%2C%20memo%2C%20useMemo.md/)
+* [[React] batching, useTransition, useDeferredValue](https://github.com/Djangowon/TIL/blob/main/React/batching%2C%20useTransition%2C%20useDeferredValue.md/)
 
 # Java
 * [[Java] abstract class & interface](https://github.com/Djangowon/TIL/blob/main/Java/abstract%20class%20%26%20interface.md/)
