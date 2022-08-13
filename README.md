@@ -69,6 +69,7 @@
 * [[JavaScript] JavaScript variable](https://github.com/Djangowon/TIL/blob/main/JavaScript/JavaScript%20variable.md/)
 * [[JavaScript] Template literals](https://github.com/Djangowon/TIL/blob/main/JavaScript/Template%20literals.md/)
 * [[JavaScript] Spread Operator](https://github.com/Djangowon/TIL/blob/main/JavaScript/Spread%20Operator.md/)
+* [[JavaScript] Default parameter & Arguments & Rest parameter](https://github.com/Djangowon/TIL/blob/main/JavaScript/Default%20parameter%20&%20Arguments%20&%20Rest%20parameter.md/)
 
 # React
 * [[React] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
