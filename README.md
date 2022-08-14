@@ -108,6 +108,7 @@
 * [[Python] Coding Convention](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Coding%20Convention.md/)
 * [[Python] Create secret key](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20Create%20secret%20key.md/)
 * [[Python] passlib.context CryptContext](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D%20passlib.context%20CryptContext.md/)
+* [[Python] Create test code using pytest mock](https://github.com/Djangowon/TIL/blob/main/Python/%5BPython%5D+Create+test+code+using+pytest+mock.md/)
 
 # FastAPI
 * [[FastAPI] Initial Setting](https://github.com/Djangowon/TIL/blob/main/FastAPI/%5BFastAPI%5D%20Initial%20Setting.md/)
