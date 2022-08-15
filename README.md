@@ -88,6 +88,7 @@
 * [[JPA] Persistence Context](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Persistence%20Context.md/)
 * [[JPA] Entity Mapping - Object to table mapping, Automatically create database schema](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Entity%20Mapping%20-%20Object%20to%20table%20mapping%2C%20Automatically%20create%20database%20schema.md/)
 * [[JPA] Entity Mapping - Field to column mapping](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Entity%20Mapping%20-%20Field%20to%20column%20mapping.md/)
+* [[JPA] Entity Mapping - Primary key mapping](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Entity%20Mapping%20-%20Primary%20key%20mapping.md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
