@@ -90,6 +90,7 @@
 * [[JPA] Entity Mapping - Field to column mapping](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Entity%20Mapping%20-%20Field%20to%20column%20mapping.md/)
 * [[JPA] Entity Mapping - Primary key mapping](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Entity%20Mapping%20-%20Primary%20key%20mapping.md/)
 * [[JPA] Relationship Mappings - Entity vs Table](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Relationship%20Mappings%20-%20Entity%20vs%20Table.md/)
+* [[JPA] Relationship Mappings - N:1, 1:N, 1:1, N:M](https://github.com/Djangowon/TIL/blob/main/Java/JPA/Relationship%20Mappings.md/)
 
 # C / C++
 * [[C] C Language - Overview](https://github.com/Djangowon/TIL/blob/main/C,%20C++/C%20Language%20-%20Overview.md/)
