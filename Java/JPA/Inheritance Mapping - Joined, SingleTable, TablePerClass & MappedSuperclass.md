@@ -1,4 +1,4 @@
-# Inheritance Mapping - Joined, SingleTable, TablePerClass
+# Inheritance Mapping - Joined, SingleTable, TablePerClass & MappedSuperclass
 
 <br>
 <br>
@@ -69,6 +69,26 @@
 
 <br>
 <br>
+
+
+## MappedSuperclass
+```java
+@MappedSuperclass
+```
+* 공통 매핑정보가 필요할 때 사용함(id, name 등)
+	> 부모 클래스를 상속 받는 자식 클래스에 매핑 정보만 제공함, 주로 등록일, 수정일, 등록자, 수정자 같은 전체 엔티티에서 공통으로 적용하는 정보를 모을 때 사용함
+* 상속관계 매핑이랑 관계 없음
+* 엔티티가 아님, 테이블과 매핑되지 않음
+	> 테이블과 관계가 없고, 단순히 엔티티가 공통으로 사용하는 매핑정보를 모으는 역할임
+* 조회, 검색 불가(em.find(BaseEntity) 불가)
+* 직접 생성해서 사용할 일이 없으므로 추상 클래스 사용할 것 추천
+
+> JPA에서 extends 쓸 때 : @Entity 클래스는 @Entity(상속 관계 매핑)나 @MappedSuperclass(속성만 매핑)로 지정한 클래스만 상속 가능함
+
+
+<br>
+<br>
+
 
 ## Ref
 https://www.inflearn.com/course/ORM-JPA-Basic
