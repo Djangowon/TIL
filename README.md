@@ -71,6 +71,7 @@
 * [[JavaScript] Spread Operator](https://github.com/Djangowon/TIL/blob/main/JavaScript/Spread%20Operator.md/)
 * [[JavaScript] Default parameter & Arguments & Rest parameter](https://github.com/Djangowon/TIL/blob/main/JavaScript/Default%20parameter%20&%20Arguments%20&%20Rest%20parameter.md/)
 * [[JavaScript] Constructor & Prototype](https://github.com/Djangowon/TIL/blob/main/JavaScript/Constructor%20%26%20Prototype.md/)
+* [[JavaScript] ES6 inheritance - class & extends & super](https://github.com/Djangowon/TIL/blob/main/JavaScript/ES6%20inheritance%20-%20class%20&%20extends%20&%20super.md/) 
 
 # React
 * [[React] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
