@@ -74,6 +74,7 @@
 * [[JavaScript] ES6 inheritance - class & extends & super](https://github.com/Djangowon/TIL/blob/main/JavaScript/ES6%20inheritance%20-%20class%20&%20extends%20&%20super.md/) 
 * [[JavaScript] Getter & Setter](https://github.com/Djangowon/TIL/blob/main/JavaScript/Getter%20&%20Setter.md/)
 * [[JavaScript] Destructuring](https://github.com/Djangowon/TIL/blob/main/JavaScript/Destructuring.md/)
+* [[JavaScript] ES6 import & export](https://github.com/Djangowon/TIL/blob/main/JavaScript/ES6%20import%20%26%20export.md/)
 
 # React
 * [[React] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
