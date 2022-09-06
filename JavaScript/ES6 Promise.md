@@ -1,4 +1,4 @@
-# Promise
+# ES6 Promise
 
 <br>
 <br>
