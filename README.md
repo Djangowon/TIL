@@ -76,6 +76,7 @@
 * [[JavaScript] Destructuring](https://github.com/Djangowon/TIL/blob/main/JavaScript/Destructuring.md/)
 * [[JavaScript] ES6 import & export](https://github.com/Djangowon/TIL/blob/main/JavaScript/ES6%20import%20%26%20export.md/)
 * [[JavaScript] ES6 Promise](https://github.com/Djangowon/TIL/blob/main/JavaScript/ES6%20Promise.md/)
+* [[JavaScript] ES8 async & await](https://github.com/Djangowon/TIL/blob/main/JavaScript/ES8%20async%20&%20await.md/)
 
 # React
 * [[React] Recently viewed product features with localStorage](https://github.com/Djangowon/TIL/blob/main/React/Recently%20viewed%20product%20features%20with%20localStorage.md/)
