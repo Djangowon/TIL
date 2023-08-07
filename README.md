@@ -2,6 +2,17 @@
 >Today I Learned / <title\>개발 모험의 서</title\>, 새롭게 배운 것 기록하는 곳.  
 개념 정리는 카테고리에 맞춰서 추가할 것.
 
+<br>
+
+# JPA
+* [SQL 중심적인 개발의 문제점](https://github.com/Djangowon/TIL/blob/dcb6e3062afe9a9bf8afdf4545ff80496acd6de3/Java/JPA/SQL%20%EC%A4%91%EC%8B%AC%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md/)
+
+<br>
+<br>
+
+<details>
+  <summary> 2021 ~ 2022</summary>
+
 # Etc
 * [[Vi] Vi Shortcut keys](https://github.com/Djangowon/TIL/blob/main/Note/%5BVi%5D%20Shortcut%20keys.md/)
 * [[HTTP] Status](https://developer.mozilla.org/ko/docs/Web/HTTP/Status/)
@@ -145,3 +156,7 @@
 # Codekata
 * [week1 - day5](https://github.com/Djangowon/TIL/blob/main/CodeKata/week1%20-%20day5.md/)
 * [week3 - day1](https://github.com/Djangowon/TIL/blob/main/CodeKata/week3%20-%20day1.md/)
+  
+</details>
+
+
