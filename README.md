@@ -10,6 +10,8 @@
 * [영속성 관리 - 내부 동작 방식: 영속성 컨텍스트](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 * [영속성 관리: 플러시란?](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%ED%94%8C%EB%9F%AC%EC%8B%9C.md)
 * [영속성 관리: 준영속 상태](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%A4%80%EC%98%81%EC%86%8D%20%EC%83%81%ED%83%9C.md/)
+* [엔티티 매핑하기 - 객체와 테이블 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91%20-%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%A7%A4%ED%95%91.md)
+* [데이터베이스 스키마 자동 생성하기](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8A%A4%ED%82%A4%EB%A7%88%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.md)
 
 
 <br>
