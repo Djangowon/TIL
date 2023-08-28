@@ -7,8 +7,9 @@
 # JPA
 * [SQL 중심적인 개발의 문제점](https://github.com/Djangowon/TIL/blob/dcb6e3062afe9a9bf8afdf4545ff80496acd6de3/Java/JPA/SQL%20%EC%A4%91%EC%8B%AC%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md/)
 * [JPA](https://github.com/Djangowon/TIL/blob/main/Java/JPA/JPA.md)
-* [영속성 컨텍스트](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
-* [플러시란?](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%ED%94%8C%EB%9F%AC%EC%8B%9C.md)
+* [영속성 관리 - 내부 동작 방식: 영속성 컨텍스트](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+* [영속성 관리: 플러시란?](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%ED%94%8C%EB%9F%AC%EC%8B%9C.md)
+* [영속성 관리: 준영속 상태](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%A4%80%EC%98%81%EC%86%8D%20%EC%83%81%ED%83%9C.md/)
 
 
 <br>
