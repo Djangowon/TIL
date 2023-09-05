@@ -12,6 +12,7 @@
 * [영속성 관리: 준영속 상태](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%A4%80%EC%98%81%EC%86%8D%20%EC%83%81%ED%83%9C.md/)
 * [엔티티 매핑하기 - 객체와 테이블 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91%20-%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%A7%A4%ED%95%91.md)
 * [데이터베이스 스키마 자동 생성하기](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8A%A4%ED%82%A4%EB%A7%88%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.md)
+* [필드와 컬럼 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%ED%95%84%EB%93%9C%EC%99%80%20%EC%BB%AC%EB%9F%BC%20%EB%A7%A4%ED%95%91.md)
 
 
 <br>
@@ -22,6 +23,11 @@
 * [Spring-Batch란?](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/2-Spring-Batch%EB%9E%80%3F.md)
 * [Job과 기본 구현체 이해, Job 실행하기](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/3-Job.md)
 * [JobInstance, ApplicationRunner, JobLauncher 만들기](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/4-JobInstance.md)
+* [@JopScope 와 @StepScope](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/5-%40JobScope-%40StepScope.md)
+* [Job을 실행할 때 전달되는 값 JobParameter](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/6-JobParameter.md)
+* [Job의 실행정보를 저장하고 있는 객체 JobExecution](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/7-JobExecution.md)
+* [Job을 구성하는 독립적인 하나의 단계 Step](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/8-Step.md)
+
 
 <br>
 
@@ -36,6 +42,17 @@
 * [인터렉티브 모드로 들어가기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-20.md)
 * [이미지, 컨테이너 관리 및 삭제하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-21.md)
 * [중지된 컨테이너 자동 제거하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-22.md)
+* [작동 배경 살펴보기 : 이미지 검사](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-23.md)
+* [컨테이너에 컨테이너로 부터 파일 복사하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-24.md)
+* [컨테이너와 이미지에 이름 지정 & 태그 지정하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-25.md)
+* [이미지 공유하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-26.md)
+* [DockerHub에 이미지 푸시](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-27.md)
+* [공유 이미지 가져오기(pull) & 사용하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-28.md)
+* [임시 애플리케이션 데이터 & 영구 애플리케이션 데이터](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-29.md)
+* [데모 앱 구축 & 이해](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-30.md)
+* [컨테이너의 데이터 손실 문제 이해하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-31.md)
+* [볼륨이란?](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-09-01.md)
+
 
 <br>
 
@@ -47,6 +64,10 @@
 * [loading, error 상태 처리하기](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C01/05.%EB%A1%9C%EB%94%A9%EC%83%81%ED%83%9C%EC%99%80%EC%97%90%EB%9F%AC%EC%83%81%ED%83%9C%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.md)
 * [CodeQuiz - Query Key](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/08.CodeQuiz-QueryKey.md)
 * [Pagination, Pre-fetching feat.쿼리 키](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/09.Pagination-PreFetching.md)
+* [isFetching vs isLoading](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/10.isLoadingVSisFetching.md)
+* [변이(Mutation)](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/11.%20%EB%B3%80%EC%9D%B4(Mutation)%20%EC%9E%85%EB%AC%B8.md)
+* [useMutation으로 포스팅 삭제하기](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/12.useMutation%EC%9C%BC%EB%A1%9C%20%ED%8F%AC%EC%8A%A4%ED%8C%85%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
+* [React Query 기초 정리](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/13.React%20Query%20%EA%B8%B0%EC%B4%88%20%EC%A0%95%EB%A6%AC.md)
 
 <br>
 <br>
