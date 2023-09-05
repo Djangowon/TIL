@@ -69,6 +69,16 @@
 * [useMutation으로 포스팅 삭제하기](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/12.useMutation%EC%9C%BC%EB%A1%9C%20%ED%8F%AC%EC%8A%A4%ED%8C%85%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
 * [React Query 기초 정리](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/13.React%20Query%20%EA%B8%B0%EC%B4%88%20%EC%A0%95%EB%A6%AC.md)
 
+
+
+<br>
+
+
+# JavaScript
+* [js 동작원리/ 비동기 처리](https://velog.io/@nksj98/%EC%8A%A4%ED%84%B0%EB%94%94-js-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC)
+* [js this](https://velog.io/@nksj98/%EC%8A%A4%ED%84%B0%EB%94%94-js-this)
+* [js 프로토타입](https://velog.io/@nksj98/%EC%8A%A4%ED%84%B0%EB%94%94-js-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85)
+
 <br>
 <br>
 
