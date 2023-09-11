@@ -14,6 +14,7 @@
 * [데이터베이스 스키마 자동 생성하기](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8A%A4%ED%82%A4%EB%A7%88%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.md)
 * [필드와 컬럼 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%ED%95%84%EB%93%9C%EC%99%80%20%EC%BB%AC%EB%9F%BC%20%EB%A7%A4%ED%95%91.md)
 * [기본 키 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EA%B8%B0%EB%B3%B8%20%ED%82%A4%20%EB%A7%A4%ED%95%91.md)
+* [요구사항 분석과 기본 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EB%A7%A4%ED%95%91.md)
 
 
 <br>
