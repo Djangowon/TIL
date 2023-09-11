@@ -28,6 +28,9 @@
 * [Job을 실행할 때 전달되는 값 JobParameter](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/6-JobParameter.md)
 * [Job의 실행정보를 저장하고 있는 객체 JobExecution](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/7-JobExecution.md)
 * [Job을 구성하는 독립적인 하나의 단계 Step](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/8-Step.md)
+* [Step 실행중에 발생한 정보를 저장하고 있는 객체 StepExecution](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/9-StepExecution.md)
+* [StepExecution 상태를 업데이트하는 도메인 객체 StepContribution](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/10-StepContribution.md)
+* [StepExecution, JobExecution 객체의 상태를 저장하는 공유 객체 ExecutionContext](https://github.com/gilyeon00/TIL/blob/main/Spring-Batch/11-ExecutionContext.md)
 
 
 <br>
@@ -53,6 +56,9 @@
 * [데모 앱 구축 & 이해](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-30.md)
 * [컨테이너의 데이터 손실 문제 이해하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-08-31.md)
 * [볼륨이란?](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-09-01.md)
+* [도커가 제어하는 볼륨 만들기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-09-02.md)
+* [명명된 볼륨으로 구조하기](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-09-03.md)
+* [바인드 마운트 시작하기(코드 공유)](https://github.com/KIMINJOONG/TIL/blob/main/Docker%26Kubernetes/2023-09-04.md)
 
 
 <br>
@@ -69,6 +75,9 @@
 * [변이(Mutation)](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/11.%20%EB%B3%80%EC%9D%B4(Mutation)%20%EC%9E%85%EB%AC%B8.md)
 * [useMutation으로 포스팅 삭제하기](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/12.useMutation%EC%9C%BC%EB%A1%9C%20%ED%8F%AC%EC%8A%A4%ED%8C%85%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
 * [React Query 기초 정리](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C02/13.React%20Query%20%EA%B8%B0%EC%B4%88%20%EC%A0%95%EB%A6%AC.md)
+* [무한 스크롤 입문](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C03/14.%EB%AC%B4%ED%95%9C%20%EC%8A%A4%ED%81%AC%EB%A1%A4%20%EC%9E%85%EB%AC%B8.md)
+* [useInfinityQuery 호출 작성하기](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C03/15.useInfiniteQuery%20%ED%98%B8%EC%B6%9C%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0.md)
+* [InfiniteScroll 컴포넌트](https://github.com/chromeheartz/TIL/blob/main/Lectures/Udemy-ReactQuery/Study/C03/16.InfiniteScroll%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 
 
 
