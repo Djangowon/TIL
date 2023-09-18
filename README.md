@@ -15,6 +15,7 @@
 * [필드와 컬럼 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%ED%95%84%EB%93%9C%EC%99%80%20%EC%BB%AC%EB%9F%BC%20%EB%A7%A4%ED%95%91.md)
 * [기본 키 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EA%B8%B0%EB%B3%B8%20%ED%82%A4%20%EB%A7%A4%ED%95%91.md)
 * [요구사항 분석과 기본 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EB%A7%A4%ED%95%91.md)
+* [연관관계 매핑 기초 - 단방향 연관관계](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%20%EA%B8%B0%EC%B4%88%20-%20%EB%8B%A8%EB%B0%A9%ED%96%A5%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md)
 
 
 <br>
