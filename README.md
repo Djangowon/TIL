@@ -17,6 +17,7 @@
 * [요구사항 분석과 기본 매핑](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%20%EB%A7%A4%ED%95%91.md)
 * [연관관계 매핑 기초 - 단방향 연관관계](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%20%EA%B8%B0%EC%B4%88%20-%20%EB%8B%A8%EB%B0%A9%ED%96%A5%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md)
 * [연관관계 매핑 기초 - 양방향 연관관계와 연관관계의 주인 1 - 기본](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%20%EA%B8%B0%EC%B4%88%20-%20%EC%96%91%EB%B0%A9%ED%96%A5%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%EC%9D%B8%201%20-%20%EA%B8%B0%EB%B3%B8.md)
+* [연관관계 매핑 기초 - 양방향 연관관계과 연관관계의 주인 2 - 주의점, 정리](https://github.com/Djangowon/TIL/blob/main/Java/JPA/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91%20%EA%B8%B0%EC%B4%88%20-%20%EC%96%91%EB%B0%A9%ED%96%A5%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EA%B3%BC%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EC%9D%98%20%EC%A3%BC%EC%9D%B8%202%20-%20%EC%A3%BC%EC%9D%98%EC%A0%90%2C%20%EC%A0%95%EB%A6%AC.md)
 
 
 <br>
